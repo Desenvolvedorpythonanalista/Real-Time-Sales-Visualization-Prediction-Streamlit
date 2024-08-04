@@ -12,10 +12,10 @@
     <h1 align="center">Melhores Tecnologias <3</h1>
     <!-- Ícones das Tecnologias -->
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="django-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+    <img align="center" height="30" width="40" alt="django-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="streamlit-icon" src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/streamlit-logo-secondary-colormark-darktext.svg">
+    <img align="center" height="30" width="40" alt="streamlit-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
    </div>
     
   <h1 align="center">Redes Sociais</h1>
@@ -34,6 +34,7 @@
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
