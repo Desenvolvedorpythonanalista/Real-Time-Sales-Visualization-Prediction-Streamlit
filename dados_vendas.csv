@@ -1,0 +1,482 @@
+produto,marca,preço,quantidade_estoque,número_vendas,setor,modelo,valor_vendas_semana,data_venda,categoria,localizacao,desconto,valor_total_venda,fornecedor
+Café em Grãos,GigaStore,577.75,28,49,Alimentos,GS-1,28309.75,2024-07-30,Alimentos,Fortaleza,0.04,27177.36,Acessórios Zeta
+Margarina,FutureTech,1540.12,18,40,Alimentos,FT-2,61604.799999999996,2024-07-28,Alimentos,Maceió,0.13,53596.18,Importadora Beta
+Farinha de Trigo,EcoWare,762.12,15,14,Alimentos,EW-5,10669.68,2024-08-01,Alimentos,São Paulo,0.07,9922.8,Equipamentos Xi
+Blocos de Montar LEGO,HomeEssentials,1075.48,72,34,Brinquedos,HE-9,36566.32,2024-07-29,Brinquedos,Manaus,0.07,34006.68,Suprimentos Delta
+Projetor Epson Home Cinema,NextGenProducts,1619.71,80,31,Eletrônicos,NGP-6,50211.01,2024-08-02,Eletrônicos,Teresina,0.15,42679.36,Produtos Epsilon
+Azeite de Oliva,ValueLine,1050.79,53,43,Alimentos,VL-6,45183.97,2024-07-30,Alimentos,Vitória,0.11,40213.73,Acessórios Zeta
+Shampoo Head & Shoulders,TechNova,1917.75,72,15,Beleza,TN-10,28766.25,2024-07-29,Beleza,Recife,0.15,24451.31,Produtos Epsilon
+Blush MAC,SuperGadgets,1007.96,97,19,Beleza,SG-4,19151.24,2024-07-28,Beleza,Porto Alegre,0.09,17427.63,Fornecedora Rho
+Saco de Boxe,QualityGoods,595.47,100,15,Esportes,QG-3,8932.050000000001,2024-07-29,Esportes,São Luís,0.11,7949.52,Logística Iota
+Escova de Dentes Elétrica,PrimeProducts,359.3,82,16,Saúde,PP-8,5748.8,2024-07-28,Saúde,São Luís,0.11,5116.43,Suprimentos Delta
+Creme para Mãos Granado,MegaBrand,1138.24,97,20,Beleza,MB-4,22764.8,2024-08-02,Beleza,João Pessoa,0.11,20260.67,Serviços Omicron
+Ventilador Mondial,EcoWare,1552.93,90,49,Eletrodomésticos,EW-3,76093.57,2024-08-01,Eletrodomésticos,Belém,0.09,69245.15,Mercadorias Eta
+Vestido Longo Estampado,QualityGoods,674.28,38,38,Roupas,QG-6,25622.64,2024-07-29,Roupas,Maceió,0.07,23829.06,Equipamentos Xi
+Poltrona Reclinável,FutureTech,1033.97,15,26,Móveis,FT-8,26883.22,2024-07-29,Móveis,Campo Grande,0.04,25807.89,Serviços Omicron
+Bola de Vôlei Mizuno,ValueLine,932.34,53,16,Esportes,VL-1,14917.44,2024-07-30,Esportes,São Paulo,0.1,13425.7,Mercadorias Eta
+Molho de Tomate,SuperGadgets,1805.83,74,28,Alimentos,SG-4,50563.24,2024-08-02,Alimentos,Manaus,0.07,47023.81,Fornecedora Gamma
+Console Xbox Series X,SuperGadgets,1943.41,69,29,Eletrônicos,SG-10,56358.89,2024-08-03,Eletrônicos,Fortaleza,0.04,54104.53,Armazém Kappa
+Bola de Vôlei Mizuno,OptimaGoods,649.07,38,44,Esportes,OG-6,28559.08,2024-08-02,Esportes,Teresina,0.09,25988.76,Suprimentos Delta
+Cereal Matinal,OptimaGoods,650.1,60,39,Alimentos,OG-2,25353.9,2024-07-31,Alimentos,Manaus,0.1,22818.51,Suprimentos Delta
+Bola de Vôlei Mizuno,MegaBrand,121.98,61,26,Esportes,MB-3,3171.48,2024-07-30,Esportes,João Pessoa,0.07,2949.48,Suprimentos Delta
+Filtro de Ar K&N,InnovateTech,223.98,25,37,Automotivo,IT-10,8287.26,2024-07-29,Automotivo,Vitória,0.03,8038.64,Logística Iota
+Camisa Polo,PrimeProducts,1180.79,24,6,Roupas,PP-9,7084.74,2024-07-30,Roupas,São Paulo,0.14,6092.88,Suprimentos Delta
+Enlatado de Milho,NextGenProducts,830.02,46,18,Alimentos,NGP-8,14940.36,2024-07-31,Alimentos,Palmas,0.12,13147.52,Inovações Mu
+Cadeira de Escritório com Rodízios,InnovateTech,1716.49,77,11,Móveis,IT-7,18881.39,2024-07-28,Móveis,Salvador,0.14,16238.0,Distribuidora Alpha
+Azeite de Oliva,HomeEssentials,1349.06,67,48,Alimentos,HE-10,64754.88,2024-07-29,Alimentos,Fortaleza,0.01,64107.33,Mercadorias Eta
+Colchonete para Yoga,SuperGadgets,1391.75,45,1,Esportes,SG-7,1391.75,2024-07-29,Esportes,Curitiba,0.08,1280.41,Armazém Upsilon
+Forno de Embutir Brastemp,MegaBrand,522.69,64,28,Eletrodomésticos,MB-6,14635.320000000002,2024-08-03,Eletrodomésticos,João Pessoa,0.05,13903.55,Fornecedora Gamma
+Cobertura para Carro,SuperGadgets,1161.58,34,45,Automotivo,SG-5,52271.1,2024-08-02,Automotivo,Porto Alegre,0.11,46521.28,Acessórios Zeta
+Kit de Natação Speedo,Trendsetter,1480.59,77,32,Esportes,TS-10,47378.88,2024-07-29,Esportes,Vitória,0.04,45483.72,Fornecedora Rho
+Óleo de Motor Mobil 1,SmartChoice,1306.18,72,27,Automotivo,SC-7,35266.86,2024-07-31,Automotivo,João Pessoa,0.15,29976.83,Armazém Kappa
+Sofá Retrátil 3 Lugares,SmartChoice,534.46,33,18,Móveis,SC-7,9620.28,2024-07-29,Móveis,Porto Alegre,0.12,8465.85,Serviços Omicron
+Robô Educativo,FutureTech,1505.26,17,26,Brinquedos,FT-6,39136.76,2024-07-28,Brinquedos,Aracaju,0.08,36005.82,Logística Iota
+Esfoliante Facial Avon,MegaBrand,934.19,18,11,Beleza,MB-6,10276.09,2024-08-02,Beleza,Rio de Janeiro,0.04,9865.05,Distribuidora Alpha
+Enlatado de Milho,HomeEssentials,561.01,89,22,Alimentos,HE-1,12342.22,2024-07-30,Alimentos,São Luís,0.07,11478.26,Distribuidora Alpha
+Desinfetante Antisséptico,EliteElectronics,1646.29,64,3,Saúde,EE-1,4938.87,2024-07-31,Saúde,Brasília,0.11,4395.59,Armazém Upsilon
+Filtro de Ar K&N,InnovateTech,1634.38,100,40,Automotivo,IT-6,65375.200000000004,2024-08-03,Automotivo,Rio de Janeiro,0.04,62760.19,Fornecedora Gamma
+Vestido Longo Estampado,SmartBuy,1693.95,51,32,Roupas,SB-5,54206.4,2024-07-28,Roupas,Recife,0.08,49869.89,Comercial Nu
+Teclado Mecânico Razer,GigaStore,1754.43,63,31,Eletrônicos,GS-7,54387.33,2024-07-31,Eletrônicos,Brasília,0.09,49492.47,Suprimentos Sigma
+Smartphone Galaxy S21,PrimeProducts,808.16,79,24,Eletrônicos,PP-8,19395.84,2024-08-01,Eletrônicos,Goiânia,0.14,16680.42,Venda Lambda
+Notebook MacBook Air,QualityGoods,1344.64,90,16,Eletrônicos,QG-4,21514.24,2024-08-01,Eletrônicos,Goiânia,0.15,18287.1,Comércio Theta
+Espremedor de Frutas Hamilton Beach,Trendsetter,466.25,41,15,Eletrodomésticos,TS-1,6993.75,2024-08-03,Eletrodomésticos,São Luís,0.14,6014.62,Suprimentos Sigma
+Estante para Livros,SuperGadgets,842.13,33,27,Móveis,SG-7,22737.51,2024-07-31,Móveis,Brasília,0.13,19781.63,Fornecedora Gamma
+Liquidificador Oster,TechNova,643.95,10,33,Eletrodomésticos,TN-6,21250.350000000002,2024-07-29,Eletrodomésticos,Fortaleza,0.02,20825.34,Armazém Kappa
+Mesa de Escritório,TechNova,1281.99,73,30,Móveis,TN-8,38459.7,2024-07-31,Móveis,Cuiabá,0.11,34229.13,Fornecedora Gamma
+Cadeira de Escritório com Rodízios,GigaStore,1093.22,96,18,Móveis,GS-5,19677.96,2024-08-02,Móveis,Vitória,0.09,17906.94,Mercadorias Eta
+Óleo de Soja,SmartBuy,964.05,81,20,Alimentos,SB-9,19281.0,2024-07-28,Alimentos,Brasília,0.15,16388.85,Equipamentos Xi
+Mesa de Escritório,Trendsetter,934.21,86,42,Móveis,TS-10,39236.82,2024-07-31,Móveis,Vitória,0.05,37274.98,Venda Lambda
+Suplemento de Ferro,SmartChoice,1736.09,66,43,Saúde,SC-5,74651.87,2024-08-02,Saúde,Fortaleza,0.01,73905.35,Importadora Tau
+Protetor Solar,EcoWare,1908.9,44,19,Saúde,EW-7,36269.1,2024-07-30,Saúde,Brasília,0.08,33367.57,Importadora Beta
+Forno de Embutir Brastemp,InnovateTech,856.1,64,35,Eletrodomésticos,IT-6,29963.5,2024-08-02,Eletrodomésticos,Fortaleza,0.13,26068.24,Fornecedora Rho
+Estante para Livros,GigaStore,1984.1,64,21,Móveis,GS-1,41666.1,2024-08-03,Móveis,Belém,0.11,37082.83,Armazém Kappa
+Bicicleta Mountain Bike,BrightChoice,331.41,83,37,Esportes,BC-6,12262.17,2024-07-29,Esportes,Vitória,0.05,11649.06,Inovações Mu
+Impressora Epson EcoTank,ValueLine,1833.59,73,26,Eletrônicos,VL-3,47673.34,2024-08-03,Eletrônicos,Aracaju,0.07,44336.21,Armazém Upsilon
+T-shirt Básica,NextGenProducts,1641.77,50,46,Roupas,NGP-10,75521.42,2024-08-03,Roupas,Maceió,0.01,74766.21,Suprimentos Sigma
+Vestido Longo Estampado,QualityGoods,557.98,9,26,Roupas,QG-8,14507.48,2024-08-02,Roupas,Recife,0.12,12766.58,Produtos Epsilon
+TV LED 55'',ElectroMart,1883.66,67,29,Eletrônicos,EM-3,54626.14,2024-07-28,Eletrônicos,Maceió,0.11,48617.26,Logística Iota
+Pelúcia Ursinho,SuperGadgets,388.7,13,41,Brinquedos,SG-3,15936.699999999999,2024-07-30,Brinquedos,Goiânia,0.11,14183.66,Mercadorias Eta
+Cama Box King Size,InnovateTech,1516.99,85,23,Móveis,IT-5,34890.77,2024-07-30,Móveis,Porto Alegre,0.11,31052.79,Acessórios Zeta
+Protetor Solar para Carro,EcoWare,1715.52,37,23,Automotivo,EW-4,39456.96,2024-07-31,Automotivo,Aracaju,0.05,37484.11,Distribuição Pi
+Estação de Brinquedos,HomeEssentials,1630.91,96,2,Brinquedos,HE-10,3261.82,2024-07-31,Brinquedos,Rio de Janeiro,0.03,3163.97,Acessórios Zeta
+Vestido Casual,ProLine,158.28,23,45,Roupas,PL-9,7122.6,2024-07-30,Roupas,Goiânia,0.14,6125.44,Fornecedora Gamma
+Quebra-Cabeça 1000 Peças,SmartChoice,1796.03,13,16,Brinquedos,SC-1,28736.48,2024-08-02,Brinquedos,Palmas,0.13,25000.74,Suprimentos Delta
+Casaco de Inverno,SmartChoice,1864.48,58,22,Roupas,SC-3,41018.56,2024-07-30,Roupas,Goiânia,0.01,40608.37,Inovações Mu
+Boneco Star Wars,BrightChoice,1063.87,33,46,Brinquedos,BC-6,48938.02,2024-07-31,Brinquedos,Aracaju,0.04,46980.5,Distribuição Pi
+Farinha de Trigo,ProLine,166.18,30,24,Alimentos,PL-6,3988.32,2024-08-02,Alimentos,João Pessoa,0.1,3589.49,Distribuidora Alpha
+Salsicha,EcoWare,492.04,100,28,Alimentos,EW-7,13777.12,2024-08-02,Alimentos,Curitiba,0.09,12537.18,Comercial Nu
+Vestido Casual,ProLine,1438.21,57,49,Roupas,PL-1,70472.29000000001,2024-07-29,Roupas,Brasília,0.01,69767.57,Fornecedora Gamma
+Projetor Epson Home Cinema,ProLine,301.64,42,14,Eletrônicos,PL-5,4222.96,2024-08-02,Eletrônicos,Teresina,0.14,3631.75,Venda Lambda
+Cordas de Escalada,MegaBrand,189.82,39,37,Esportes,MB-5,7023.34,2024-07-29,Esportes,Goiânia,0.14,6040.07,Comércio Theta
+Cereal Matinal,EliteElectronics,312.76,39,35,Alimentos,EE-1,10946.6,2024-07-31,Alimentos,Belém,0.02,10727.67,Venda Lambda
+Suporte para Celular,EliteElectronics,980.87,64,37,Automotivo,EE-2,36292.19,2024-08-01,Automotivo,São Paulo,0.12,31937.13,Comercial Nu
+Vestido Casual,TechNova,698.7,15,9,Roupas,TN-3,6288.3,2024-07-31,Roupas,São Paulo,0.12,5533.7,Importadora Beta
+Curativos Esterilizados,FutureTech,460.16,69,8,Saúde,FT-7,3681.28,2024-08-03,Saúde,Belo Horizonte,0.01,3644.47,Importadora Beta
+Estante para Livros,EliteElectronics,182.75,46,38,Móveis,EE-10,6944.5,2024-07-28,Móveis,Porto Alegre,0.11,6180.61,Importadora Beta
+Lápis de Olho Maybelline,FutureTech,1487.85,74,30,Beleza,FT-8,44635.5,2024-07-31,Beleza,Belém,0.13,38832.89,Fornecedora Gamma
+Perfume Dolce & Gabbana,ProLine,1725.63,92,43,Beleza,PL-2,74202.09000000001,2024-07-28,Beleza,Aracaju,0.04,71234.01,Mercadorias Eta
+Máscara de Cílios Dior,BrightChoice,1041.84,37,13,Beleza,BC-10,13543.919999999998,2024-07-29,Beleza,Curitiba,0.13,11783.21,Armazém Upsilon
+Hidratante para Corpo Natura,SmartChoice,442.92,73,43,Beleza,SC-6,19045.56,2024-07-28,Beleza,Cuiabá,0.1,17141.0,Acessórios Zeta
+Torradeira Philips,SmartChoice,1100.67,96,12,Eletrodomésticos,SC-4,13208.04,2024-08-01,Eletrodomésticos,Salvador,0.09,12019.32,Comércio Theta
+Cobertura para Carro,EcoWare,865.4,61,29,Automotivo,EW-2,25096.6,2024-07-31,Automotivo,Maceió,0.12,22085.01,Importadora Beta
+Monitor UltraWide 34'',FutureTech,339.29,69,35,Eletrônicos,FT-8,11875.150000000001,2024-07-28,Eletrônicos,Teresina,0.04,11400.14,Acessórios Zeta
+Máscara de Cílios Dior,InnovateTech,1473.56,35,42,Beleza,IT-4,61889.52,2024-08-01,Beleza,Teresina,0.1,55700.57,Equipamentos Xi
+Fogão Electrolux,EliteElectronics,121.57,32,17,Eletrodomésticos,EE-9,2066.69,2024-08-02,Eletrodomésticos,Curitiba,0.13,1798.02,Fornecedora Rho
+Vestido Casual,GigaStore,1743.7,24,36,Roupas,GS-2,62773.200000000004,2024-07-31,Roupas,Cuiabá,0.13,54612.68,Distribuidora Alpha
+Impressora HP DeskJet,NextGenProducts,1216.78,57,27,Eletrônicos,NGP-4,32853.06,2024-07-28,Eletrônicos,Aracaju,0.03,31867.47,Suprimentos Delta
+Cordas de Escalada,EcoWare,278.4,85,49,Esportes,EW-8,13641.599999999999,2024-07-31,Esportes,Salvador,0.14,11731.78,Importadora Tau
+Suplemento de Ômega 3,HomeEssentials,140.18,86,9,Saúde,HE-10,1261.6200000000001,2024-08-02,Saúde,Teresina,0.01,1249.0,Logística Iota
+Fone de Ouvido AirPods,InnovateTech,1197.95,42,3,Eletrônicos,IT-9,3593.8500000000004,2024-07-28,Eletrônicos,Curitiba,0.02,3521.97,Serviços Omicron
+Jogo de Vídeo Game para Crianças,ValueLine,112.95,43,9,Brinquedos,VL-5,1016.5500000000001,2024-08-01,Brinquedos,João Pessoa,0.04,975.89,Suprimentos Delta
+Chá Verde,Trendsetter,473.35,89,9,Alimentos,TS-5,4260.150000000001,2024-07-30,Alimentos,Teresina,0.06,4004.54,Armazém Upsilon
+Tênis de Corrida Asics,EliteElectronics,273.59,31,10,Esportes,EE-10,2735.8999999999996,2024-07-30,Esportes,Cuiabá,0.03,2653.82,Suprimentos Delta
+Desumidificador Britânia,EliteElectronics,711.96,72,41,Eletrodomésticos,EE-3,29190.36,2024-07-31,Eletrodomésticos,Curitiba,0.09,26563.23,Suprimentos Delta
+Kit de Pesca,FutureTech,876.1,96,28,Esportes,FT-9,24530.8,2024-07-31,Esportes,Vitória,0.08,22568.34,Importadora Tau
+Macarrão Penne,SmartBuy,1362.76,20,31,Alimentos,SB-9,42245.56,2024-07-28,Alimentos,Campo Grande,0.09,38443.46,Comércio Theta
+Antisséptico Bucal,SuperGadgets,309.25,78,31,Saúde,SG-1,9586.75,2024-07-29,Saúde,Porto Alegre,0.01,9490.88,Suprimentos Sigma
+Canoe Kayak,EcoWare,1538.39,61,34,Esportes,EW-4,52305.26,2024-07-28,Esportes,Recife,0.02,51259.15,Armazém Kappa
+Notebook Dell XPS 13,SmartChoice,1870.35,13,37,Eletrônicos,SC-7,69202.95,2024-08-03,Eletrônicos,Curitiba,0.08,63666.71,Suprimentos Delta
+Margarina,QualityGoods,1894.28,26,11,Alimentos,QG-5,20837.079999999998,2024-07-29,Alimentos,João Pessoa,0.03,20211.97,Fornecedora Rho
+Console PlayStation 5,ElectroMart,1755.08,45,15,Eletrônicos,EM-8,26326.199999999997,2024-08-02,Eletrônicos,Brasília,0.03,25536.41,Armazém Kappa
+Teclado Mecânico Razer,GigaStore,923.65,31,38,Eletrônicos,GS-8,35098.7,2024-07-29,Eletrônicos,Teresina,0.13,30535.87,Fornecedora Rho
+Escova de Dentes Elétrica,InnovateTech,209.69,84,2,Saúde,IT-2,419.38,2024-07-30,Saúde,Aracaju,0.07,390.02,Inovações Mu
+Robô Educativo,BrightChoice,319.64,79,37,Brinquedos,BC-8,11826.68,2024-08-03,Brinquedos,Curitiba,0.05,11235.35,Suprimentos Sigma
+Mesa de Café com 2 Puffs,SmartChoice,774.08,59,37,Móveis,SC-10,28640.960000000003,2024-07-30,Móveis,Campo Grande,0.11,25490.45,Suprimentos Delta
+Batedeira KitchenAid,Trendsetter,1710.63,59,22,Eletrodomésticos,TS-4,37633.86,2024-08-01,Eletrodomésticos,Belém,0.09,34246.81,Importadora Beta
+Banco de Jardim,EcoWare,111.62,14,36,Móveis,EW-1,4018.32,2024-07-31,Móveis,Belém,0.15,3415.57,Importadora Tau
+Kit de Maquiagem O Boticário,TechNova,1500.05,94,15,Beleza,TN-5,22500.75,2024-08-01,Beleza,João Pessoa,0.06,21150.7,Inovações Mu
+Mochila de Trekking,NextGenProducts,1327.75,100,37,Esportes,NGP-3,49126.75,2024-07-31,Esportes,Vitória,0.06,46179.14,Comércio Theta
+Enlatado de Milho,PrimeProducts,104.21,36,7,Alimentos,PP-2,729.4699999999999,2024-08-04,Alimentos,São Luís,0.08,671.11,Inovações Mu
+Mesa de Centro,OptimaGoods,848.17,37,4,Móveis,OG-3,3392.68,2024-07-30,Móveis,Salvador,0.08,3121.27,Importadora Beta
+Jaqueta de Couro,SuperGadgets,1006.54,69,39,Roupas,SG-5,39255.06,2024-08-01,Roupas,Cuiabá,0.09,35722.1,Importadora Beta
+Mesa de Cabeceira,TechNova,1785.4,24,49,Móveis,TN-9,87484.6,2024-08-02,Móveis,Salvador,0.04,83985.22,Logística Iota
+Farinha de Trigo,SmartBuy,1542.5,31,32,Alimentos,SB-4,49360.0,2024-08-03,Alimentos,Fortaleza,0.08,45411.2,Distribuição Pi
+Camiseta de Manga Longa,QualityGoods,610.52,57,26,Roupas,QG-6,15873.52,2024-07-29,Roupas,Palmas,0.07,14762.37,Serviços Omicron
+Console PlayStation 5,EliteElectronics,213.51,21,3,Eletrônicos,EE-8,640.53,2024-07-30,Eletrônicos,Brasília,0.09,582.88,Produtos Epsilon
+Playmobil Aventuras,ProLine,939.96,65,17,Brinquedos,PL-1,15979.32,2024-08-01,Brinquedos,Palmas,0.09,14541.18,Produtos Epsilon
+Banco de Jardim,SuperGadgets,1482.28,81,30,Móveis,SG-6,44468.4,2024-07-30,Móveis,Vitória,0.08,40910.93,Distribuidora Alpha
+Guarda-Roupa 6 Portas,ProLine,768.36,66,32,Móveis,PL-9,24587.52,2024-07-30,Móveis,Manaus,0.05,23358.14,Distribuição Pi
+Água Micelar Garnier,GigaStore,1372.09,45,3,Beleza,GS-9,4116.2699999999995,2024-07-29,Beleza,Belém,0.02,4033.94,Comércio Theta
+Purificador de Água Consul,Trendsetter,476.95,68,47,Eletrodomésticos,TS-4,22416.649999999998,2024-08-04,Eletrodomésticos,Recife,0.07,20847.48,Produtos Epsilon
+Cadeira de Escritório Ergonômica,SmartBuy,816.08,72,45,Móveis,SB-6,36723.6,2024-07-31,Móveis,São Paulo,0.05,34887.42,Equipamentos Xi
+Colchonete para Yoga,ValueLine,1956.81,19,9,Esportes,VL-6,17611.29,2024-08-04,Esportes,Teresina,0.14,15145.71,Distribuição Pi
+Creme para Mãos Granado,TechNova,264.88,97,23,Beleza,TN-10,6092.24,2024-08-03,Beleza,Recife,0.14,5239.33,Comércio Theta
+Projetor Epson Home Cinema,SuperGadgets,1578.94,45,43,Eletrônicos,SG-6,67894.42,2024-07-29,Eletrônicos,Aracaju,0.06,63820.75,Distribuição Pi
+Blush MAC,ElectroMart,128.88,75,28,Beleza,EM-6,3608.64,2024-08-04,Beleza,Belém,0.03,3500.38,Venda Lambda
+Smartwatch Galaxy Watch 4,NextGenProducts,457.23,32,14,Eletrônicos,NGP-5,6401.22,2024-08-02,Eletrônicos,Brasília,0.06,6017.15,Comercial Nu
+Repelente de Insetos,Trendsetter,1728.85,49,1,Saúde,TS-7,1728.85,2024-08-01,Saúde,Teresina,0.01,1711.56,Importadora Tau
+Cama Infantil,QualityGoods,167.27,32,43,Móveis,QG-3,7192.610000000001,2024-08-03,Móveis,Maceió,0.13,6257.57,Importadora Tau
+Teclado Mecânico Razer,InnovateTech,496.84,37,45,Eletrônicos,IT-8,22357.8,2024-08-04,Eletrônicos,Belém,0.06,21016.33,Fornecedora Gamma
+Pomada para Cortes,HomeEssentials,858.2,49,21,Saúde,HE-10,18022.2,2024-08-02,Saúde,Aracaju,0.1,16219.98,Importadora Tau
+Jogo de Vídeo Game para Crianças,Trendsetter,1590.93,89,4,Brinquedos,TS-9,6363.72,2024-08-01,Brinquedos,Salvador,0.02,6236.45,Fornecedora Gamma
+Poltrona Reclinável,GigaStore,292.91,72,11,Móveis,GS-10,3222.01,2024-07-31,Móveis,Palmas,0.0,3222.01,Armazém Upsilon
+Máscara Facial Neutrogena,HomeEssentials,1538.23,22,10,Beleza,HE-4,15382.3,2024-07-30,Beleza,Salvador,0.02,15074.65,Inovações Mu
+Projetor Epson Home Cinema,FutureTech,318.74,95,45,Eletrônicos,FT-4,14343.300000000001,2024-08-01,Eletrônicos,Aracaju,0.0,14343.3,Venda Lambda
+Suco de Laranja,PrimeProducts,1146.19,88,15,Alimentos,PP-1,17192.850000000002,2024-08-04,Alimentos,Teresina,0.09,15645.49,Importadora Beta
+Margarina,EliteElectronics,461.71,97,23,Alimentos,EE-2,10619.33,2024-08-04,Alimentos,Maceió,0.04,10194.56,Suprimentos Delta
+Geladeira Samsung Frost Free,SmartBuy,1248.81,9,21,Eletrodomésticos,SB-1,26225.01,2024-08-03,Eletrodomésticos,Cuiabá,0.06,24651.51,Comércio Theta
+Perfume Chanel No. 5,PrimeProducts,793.65,34,48,Beleza,PP-7,38095.2,2024-08-02,Beleza,Maceió,0.04,36571.39,Fornecedora Rho
+Frigobar Electrolux,PrimeProducts,1782.21,97,31,Eletrodomésticos,PP-10,55248.51,2024-07-30,Eletrodomésticos,Porto Alegre,0.13,48066.2,Armazém Kappa
+Leite Desnatado,InnovateTech,1243.13,31,13,Alimentos,IT-2,16160.690000000002,2024-07-29,Alimentos,Belo Horizonte,0.09,14706.23,Mercadorias Eta
+Arroz Integral,EcoWare,1974.82,66,11,Alimentos,EW-9,21723.02,2024-08-03,Alimentos,Salvador,0.13,18899.03,Acessórios Zeta
+Farinha de Trigo,OptimaGoods,923.47,6,7,Alimentos,OG-6,6464.29,2024-07-30,Alimentos,Curitiba,0.05,6141.08,Suprimentos Sigma
+Cabo de Ignição NGK,ValueLine,294.25,23,3,Automotivo,VL-6,882.75,2024-08-04,Automotivo,Manaus,0.04,847.44,Equipamentos Xi
+Luvas de Boxe Everlast,ValueLine,1973.59,68,32,Esportes,VL-4,63154.88,2024-07-31,Esportes,São Luís,0.15,53681.65,Mercadorias Eta
+Colchonete para Yoga,TechNova,557.85,5,6,Esportes,TN-6,3347.1000000000004,2024-08-03,Esportes,Salvador,0.09,3045.86,Equipamentos Xi
+Console PlayStation 5,Trendsetter,438.46,56,11,Eletrônicos,TS-6,4823.0599999999995,2024-08-02,Eletrônicos,Goiânia,0.1,4340.75,Distribuidora Alpha
+Feijão Preto,EcoWare,1706.13,36,16,Alimentos,EW-3,27298.08,2024-08-02,Alimentos,Curitiba,0.08,25114.23,Fornecedora Gamma
+Forno de Embutir Brastemp,EcoWare,1378.91,13,41,Eletrodomésticos,EW-9,56535.310000000005,2024-07-31,Eletrodomésticos,Campo Grande,0.01,55969.96,Comércio Theta
+Monitor UltraWide 34'',SmartBuy,106.61,53,30,Eletrônicos,SB-8,3198.3,2024-07-31,Eletrônicos,Maceió,0.02,3134.33,Fornecedora Rho
+Perfume Dolce & Gabbana,FutureTech,1844.71,93,19,Beleza,FT-1,35049.49,2024-07-31,Beleza,Cuiabá,0.05,33297.02,Acessórios Zeta
+Mala de Viagem,ProLine,1962.52,81,41,Automotivo,PL-5,80463.31999999999,2024-07-30,Automotivo,João Pessoa,0.07,74830.89,Equipamentos Xi
+Desinfetante Antisséptico,EcoWare,120.5,86,50,Saúde,EW-1,6025.0,2024-08-01,Saúde,Campo Grande,0.06,5663.5,Produtos Epsilon
+Casaco de Inverno,ValueLine,1353.85,79,38,Roupas,VL-2,51446.299999999996,2024-08-04,Roupas,Campo Grande,0.09,46816.13,Importadora Beta
+Sofá Retrátil 3 Lugares,PrimeProducts,629.3,5,15,Móveis,PP-4,9439.5,2024-07-29,Móveis,Teresina,0.03,9156.32,Distribuidora Alpha
+Porta-Copos Automotivo,SmartBuy,1878.92,29,12,Automotivo,SB-5,22547.04,2024-08-02,Automotivo,Curitiba,0.01,22321.57,Suprimentos Delta
+Bola de Basquete Spalding,TechNova,1213.42,97,42,Esportes,TN-3,50963.64,2024-07-29,Esportes,Aracaju,0.04,48925.09,Suprimentos Sigma
+Smartphone Galaxy S21,BrightChoice,1343.31,93,20,Eletrônicos,BC-6,26866.199999999997,2024-08-04,Eletrônicos,João Pessoa,0.14,23104.93,Distribuição Pi
+Creme Anti-Idade L'Oréal,MegaBrand,1401.9,44,46,Beleza,MB-1,64487.4,2024-08-03,Beleza,Rio de Janeiro,0.14,55459.16,Importadora Beta
+Antisséptico Bucal,SmartChoice,1593.35,60,8,Saúde,SC-6,12746.8,2024-07-29,Saúde,Curitiba,0.04,12236.93,Fornecedora Gamma
+Granola,SuperGadgets,1609.23,54,50,Alimentos,SG-8,80461.5,2024-08-04,Alimentos,São Paulo,0.07,74829.19,Fornecedora Gamma
+Ventilador Mondial,MegaBrand,1396.45,75,24,Eletrodomésticos,MB-9,33514.8,2024-07-29,Eletrodomésticos,São Luís,0.09,30498.47,Distribuição Pi
+Vestido Casual,EliteElectronics,327.44,55,27,Roupas,EE-2,8840.88,2024-08-03,Roupas,Rio de Janeiro,0.06,8310.43,Acessórios Zeta
+Monitor UltraWide 34'',QualityGoods,254.78,9,50,Eletrônicos,QG-9,12739.0,2024-07-29,Eletrônicos,Recife,0.15,10828.15,Suprimentos Delta
+Protetor Solar para Carro,EliteElectronics,291.54,60,34,Automotivo,EE-10,9912.36,2024-08-01,Automotivo,Campo Grande,0.1,8921.12,Mercadorias Eta
+Carrinho Hot Wheels,ElectroMart,1542.99,62,33,Brinquedos,EM-1,50918.67,2024-08-04,Brinquedos,São Luís,0.02,49900.3,Produtos Epsilon
+Drone DJI Mavic,QualityGoods,658.12,8,22,Eletrônicos,QG-4,14478.64,2024-08-01,Eletrônicos,Goiânia,0.06,13609.92,Fornecedora Gamma
+Hidratante para Corpo Natura,PrimeProducts,251.45,98,44,Beleza,PP-1,11063.8,2024-08-03,Beleza,Rio de Janeiro,0.03,10731.89,Venda Lambda
+Vestido Casual,OptimaGoods,316.2,20,23,Roupas,OG-9,7272.599999999999,2024-08-01,Roupas,Fortaleza,0.08,6690.79,Fornecedora Gamma
+Boneca Barbie Fashion,Trendsetter,1138.65,44,3,Brinquedos,TS-1,3415.9500000000003,2024-08-03,Brinquedos,São Paulo,0.13,2971.88,Mercadorias Eta
+Lavadora de Roupas LG,SmartBuy,844.98,94,43,Eletrodomésticos,SB-6,36334.14,2024-08-03,Eletrodomésticos,Vitória,0.06,34154.09,Serviços Omicron
+Smartphone Galaxy S21,ElectroMart,615.06,66,35,Eletrônicos,EM-5,21527.1,2024-07-31,Eletrônicos,Palmas,0.04,20666.02,Suprimentos Sigma
+Camisa Social Feminina,EliteElectronics,639.29,13,14,Roupas,EE-4,8950.06,2024-08-01,Roupas,Vitória,0.14,7697.05,Logística Iota
+Boneca Barbie Fashion,BrightChoice,1840.64,77,11,Brinquedos,BC-7,20247.04,2024-08-03,Brinquedos,Goiânia,0.01,20044.57,Acessórios Zeta
+Mouse Logitech MX Master,GigaStore,284.16,14,1,Eletrônicos,GS-3,284.16,2024-07-31,Eletrônicos,Belo Horizonte,0.05,269.95,Suprimentos Sigma
+Tênis de Basquete Converse,SmartBuy,910.99,18,47,Esportes,SB-1,42816.53,2024-07-29,Esportes,São Paulo,0.15,36394.05,Suprimentos Sigma
+Bola de Futebol Nike,InnovateTech,616.82,15,47,Esportes,IT-9,28990.54,2024-07-31,Esportes,Goiânia,0.07,26961.2,Suprimentos Delta
+Sofá de Canto,ElectroMart,1173.46,7,2,Móveis,EM-5,2346.92,2024-08-02,Móveis,São Paulo,0.02,2299.98,Serviços Omicron
+Mochila de Trekking,GigaStore,473.3,65,34,Esportes,GS-4,16092.2,2024-07-31,Esportes,Fortaleza,0.1,14482.98,Comércio Theta
+Câmera Canon EOS R5,ValueLine,648.3,11,33,Eletrônicos,VL-9,21393.899999999998,2024-08-04,Eletrônicos,Brasília,0.02,20966.02,Armazém Kappa
+Pelúcia Ursinho,QualityGoods,833.86,7,3,Brinquedos,QG-1,2501.58,2024-07-31,Brinquedos,Vitória,0.02,2451.55,Logística Iota
+Alarmes e Sensores,SuperGadgets,435.96,92,6,Automotivo,SG-4,2615.7599999999998,2024-08-04,Automotivo,Cuiabá,0.13,2275.71,Distribuidora Alpha
+Manteiga de Amendoim,SuperGadgets,704.76,33,9,Alimentos,SG-9,6342.84,2024-08-01,Alimentos,Campo Grande,0.05,6025.7,Importadora Tau
+Aspirador de Pó Philips,PrimeProducts,247.83,82,42,Eletrodomésticos,PP-4,10408.86,2024-08-03,Eletrodomésticos,Cuiabá,0.13,9055.71,Armazém Kappa
+Notebook MacBook Air,SmartBuy,868.56,83,32,Eletrônicos,SB-6,27793.92,2024-07-29,Eletrônicos,Palmas,0.05,26404.22,Venda Lambda
+Pasta de Dente,InnovateTech,1110.18,10,32,Saúde,IT-6,35525.76,2024-08-01,Saúde,Maceió,0.08,32683.7,Suprimentos Delta
+Rodas Esportivas,InnovateTech,1325.14,46,34,Automotivo,IT-5,45054.76,2024-08-04,Automotivo,Teresina,0.09,40999.83,Importadora Tau
+Robô Educativo,HomeEssentials,1974.8,75,28,Brinquedos,HE-5,55294.4,2024-07-30,Brinquedos,São Luís,0.12,48659.07,Equipamentos Xi
+Cabo de Ignição NGK,FutureTech,1703.21,54,8,Automotivo,FT-6,13625.68,2024-08-04,Automotivo,Aracaju,0.06,12808.14,Equipamentos Xi
+Kit de Natação Speedo,GigaStore,363.36,36,24,Esportes,GS-7,8720.64,2024-07-30,Esportes,Fortaleza,0.13,7586.96,Importadora Tau
+Ventilador Mondial,QualityGoods,386.59,79,18,Eletrodomésticos,QG-5,6958.62,2024-08-01,Eletrodomésticos,São Paulo,0.1,6262.76,Armazém Kappa
+Cômoda 5 Gavetas,TechNova,469.79,93,27,Móveis,TN-1,12684.33,2024-07-29,Móveis,Cuiabá,0.1,11415.9,Fornecedora Rho
+Kit de Primeiros Socorros,FutureTech,988.96,7,30,Saúde,FT-8,29668.800000000003,2024-08-03,Saúde,Fortaleza,0.07,27591.98,Comércio Theta
+Kit de Maquiagem O Boticário,PrimeProducts,1960.79,95,22,Beleza,PP-4,43137.38,2024-07-31,Beleza,Rio de Janeiro,0.1,38823.64,Armazém Upsilon
+Leite Desnatado,EcoWare,614.6,51,36,Alimentos,EW-10,22125.600000000002,2024-07-31,Alimentos,Cuiabá,0.12,19470.53,Acessórios Zeta
+Atum em Lata,FutureTech,1416.55,48,47,Alimentos,FT-10,66577.84999999999,2024-08-02,Alimentos,Belo Horizonte,0.08,61251.62,Fornecedora Rho
+Estação de Brinquedos,EliteElectronics,534.24,68,9,Brinquedos,EE-2,4808.16,2024-08-04,Brinquedos,Belo Horizonte,0.05,4567.75,Venda Lambda
+Lâmpada de Farol Philips,OptimaGoods,880.73,44,32,Automotivo,OG-10,28183.36,2024-07-30,Automotivo,Manaus,0.02,27619.69,Distribuidora Alpha
+Repelente de Insetos,MegaBrand,1890.38,20,13,Saúde,MB-6,24574.940000000002,2024-08-03,Saúde,Palmas,0.07,22854.69,Acessórios Zeta
+Rack para TV,SuperGadgets,242.97,72,16,Móveis,SG-3,3887.52,2024-07-30,Móveis,João Pessoa,0.07,3615.39,Armazém Kappa
+Vestido Longo Estampado,EliteElectronics,931.87,26,43,Roupas,EE-5,40070.41,2024-07-31,Roupas,Goiânia,0.07,37265.48,Equipamentos Xi
+Vestido Longo Estampado,TechNova,1119.82,58,17,Roupas,TN-6,19036.94,2024-08-04,Roupas,Maceió,0.03,18465.83,Armazém Upsilon
+Filtro de Ar K&N,ElectroMart,1699.36,66,13,Automotivo,EM-7,22091.68,2024-08-04,Automotivo,Palmas,0.1,19882.51,Fornecedora Rho
+Shampoo Head & Shoulders,GigaStore,586.74,87,14,Beleza,GS-4,8214.36,2024-08-01,Beleza,Rio de Janeiro,0.01,8132.22,Armazém Upsilon
+Açúcar Refinado,SmartChoice,1471.82,85,9,Alimentos,SC-7,13246.38,2024-07-29,Alimentos,Belém,0.07,12319.13,Distribuidora Alpha
+Desembassador de Parabrisa,QualityGoods,1534.49,99,30,Automotivo,QG-3,46034.7,2024-08-02,Automotivo,Campo Grande,0.15,39129.49,Suprimentos Sigma
+Macarrão Penne,GigaStore,1034.55,37,32,Alimentos,GS-6,33105.6,2024-08-02,Alimentos,Rio de Janeiro,0.12,29132.93,Inovações Mu
+Água Micelar Garnier,PrimeProducts,1809.72,89,10,Beleza,PP-8,18097.2,2024-07-31,Beleza,Belo Horizonte,0.07,16830.4,Serviços Omicron
+Secadora de Roupas Whirlpool,SuperGadgets,836.32,55,40,Eletrodomésticos,SG-4,33452.8,2024-08-02,Eletrodomésticos,Cuiabá,0.03,32449.22,Importadora Tau
+Macacão Jeans,EliteElectronics,1504.81,60,47,Roupas,EE-1,70726.06999999999,2024-08-03,Roupas,Salvador,0.01,70018.81,Distribuidora Alpha
+Colchonete para Yoga,TechNova,1525.18,23,48,Esportes,TN-2,73208.64,2024-07-30,Esportes,João Pessoa,0.02,71744.47,Acessórios Zeta
+Casaco de Inverno,EliteElectronics,535.96,91,30,Roupas,EE-4,16078.800000000001,2024-08-04,Roupas,Aracaju,0.0,16078.8,Venda Lambda
+Notebook Dell XPS 13,BrightChoice,1566.52,47,23,Eletrônicos,BC-8,36029.96,2024-08-01,Eletrônicos,Fortaleza,0.08,33147.56,Distribuição Pi
+Arco e Flecha de Brinquedo,EliteElectronics,460.23,40,11,Brinquedos,EE-3,5062.530000000001,2024-07-30,Brinquedos,Goiânia,0.05,4809.4,Importadora Beta
+Kit de Natação Speedo,EliteElectronics,1571.08,46,34,Esportes,EE-3,53416.72,2024-07-29,Esportes,Brasília,0.02,52348.39,Suprimentos Sigma
+Bateria de Carro Varta,BrightChoice,1307.89,93,50,Automotivo,BC-1,65394.50000000001,2024-07-30,Automotivo,São Paulo,0.11,58201.11,Distribuição Pi
+Lavadora de Roupas LG,SmartChoice,1458.0,77,6,Eletrodomésticos,SC-5,8748.0,2024-07-30,Eletrodomésticos,Cuiabá,0.03,8485.56,Importadora Beta
+Manteiga de Amendoim,FutureTech,819.6,61,34,Alimentos,FT-7,27866.4,2024-07-31,Alimentos,Goiânia,0.13,24243.77,Equipamentos Xi
+Aquecedor Cadence,PrimeProducts,1402.35,48,14,Eletrodomésticos,PP-9,19632.899999999998,2024-08-03,Eletrodomésticos,Goiânia,0.04,18847.58,Produtos Epsilon
+Curativos Esterilizados,OptimaGoods,1925.38,72,16,Saúde,OG-9,30806.08,2024-07-30,Saúde,Brasília,0.03,29881.9,Distribuição Pi
+Kits de Arte,ProLine,1891.11,39,18,Brinquedos,PL-4,34039.979999999996,2024-07-31,Brinquedos,João Pessoa,0.05,32337.98,Mercadorias Eta
+Chá Verde,SuperGadgets,301.99,98,42,Alimentos,SG-1,12683.58,2024-08-01,Alimentos,Recife,0.05,12049.4,Distribuição Pi
+Criado-Mudo,SmartBuy,977.63,89,16,Móveis,SB-10,15642.08,2024-08-04,Móveis,Salvador,0.06,14703.56,Comercial Nu
+Desodorante Antibacteriano,BrightChoice,336.97,64,22,Saúde,BC-7,7413.34,2024-07-31,Saúde,Curitiba,0.12,6523.74,Distribuidora Alpha
+Suporte para Celular,QualityGoods,1160.75,10,10,Automotivo,QG-6,11607.5,2024-08-03,Automotivo,Brasília,0.06,10911.05,Venda Lambda
+Arroz Integral,SmartChoice,1576.23,47,43,Alimentos,SC-5,67777.89,2024-07-31,Alimentos,Campo Grande,0.02,66422.33,Mercadorias Eta
+Cinta Abdominal,InnovateTech,231.02,28,29,Saúde,IT-5,6699.58,2024-08-04,Saúde,São Luís,0.09,6096.62,Suprimentos Delta
+Cereal Matinal,Trendsetter,321.91,74,16,Alimentos,TS-3,5150.56,2024-07-31,Alimentos,Brasília,0.02,5047.55,Fornecedora Rho
+Cadeira de Escritório com Rodízios,QualityGoods,796.22,34,15,Móveis,QG-2,11943.300000000001,2024-07-31,Móveis,Belo Horizonte,0.1,10748.97,Fornecedora Rho
+Tênis de Basquete Converse,HomeEssentials,1227.45,92,36,Esportes,HE-9,44188.200000000004,2024-08-02,Esportes,Campo Grande,0.12,38885.62,Armazém Kappa
+Kits de Arte,ValueLine,1130.46,36,49,Brinquedos,VL-7,55392.54,2024-08-04,Brinquedos,Palmas,0.08,50961.14,Fornecedora Gamma
+Salsicha,QualityGoods,1209.48,78,7,Alimentos,QG-6,8466.36,2024-07-29,Alimentos,Palmas,0.1,7619.72,Suprimentos Delta
+Raquete de Tênis Wilson,ProLine,1066.87,39,7,Esportes,PL-2,7468.089999999999,2024-08-01,Esportes,Porto Alegre,0.05,7094.69,Equipamentos Xi
+Desinfetante Antisséptico,ProLine,1636.2,38,45,Saúde,PL-2,73629.0,2024-08-01,Saúde,São Paulo,0.08,67738.68,Fornecedora Gamma
+Granola,TechNova,1303.85,43,17,Alimentos,TN-9,22165.449999999997,2024-07-30,Alimentos,Goiânia,0.12,19505.6,Logística Iota
+Tênis de Corrida Asics,EliteElectronics,959.43,21,7,Esportes,EE-2,6716.009999999999,2024-07-30,Esportes,Teresina,0.0,6716.01,Fornecedora Rho
+Capa de Banco,ElectroMart,1839.29,17,41,Automotivo,EM-2,75410.89,2024-07-31,Automotivo,Belo Horizonte,0.12,66361.58,Fornecedora Gamma
+Kit de Natação Speedo,HomeEssentials,270.08,6,25,Esportes,HE-7,6752.0,2024-08-03,Esportes,Teresina,0.03,6549.44,Acessórios Zeta
+Mesa de Jantar 6 Lugares,SuperGadgets,908.56,72,18,Móveis,SG-2,16354.079999999998,2024-08-03,Móveis,Recife,0.05,15536.38,Fornecedora Gamma
+Desinfetante Antisséptico,HomeEssentials,740.64,38,13,Saúde,HE-7,9628.32,2024-07-29,Saúde,Rio de Janeiro,0.06,9050.62,Importadora Tau
+Boneca Barbie Fashion,InnovateTech,268.27,94,5,Brinquedos,IT-5,1341.35,2024-07-29,Brinquedos,Recife,0.14,1153.56,Importadora Tau
+Saia Midi,ProLine,1665.38,31,18,Roupas,PL-5,29976.840000000004,2024-07-31,Roupas,Belém,0.06,28178.23,Fornecedora Rho
+Jogo de Tabuleiro Monopoly,ValueLine,572.3,33,10,Brinquedos,VL-5,5723.0,2024-07-31,Brinquedos,Palmas,0.04,5494.08,Comercial Nu
+Azeite de Oliva,FutureTech,1146.47,98,44,Alimentos,FT-6,50444.68,2024-08-04,Alimentos,Cuiabá,0.04,48426.89,Fornecedora Gamma
+Arroz Integral,OptimaGoods,1116.7,87,10,Alimentos,OG-9,11167.0,2024-08-04,Alimentos,Aracaju,0.08,10273.64,Produtos Epsilon
+Porta-Copos Automotivo,EcoWare,1784.48,79,4,Automotivo,EW-8,7137.92,2024-08-03,Automotivo,Fortaleza,0.13,6209.99,Distribuição Pi
+Macacão Jeans,BrightChoice,1690.18,6,40,Roupas,BC-10,67607.2,2024-08-04,Roupas,Aracaju,0.02,66255.06,Fornecedora Gamma
+Desodorante Rexona,GigaStore,1912.55,26,25,Beleza,GS-9,47813.75,2024-08-03,Beleza,Recife,0.12,42076.1,Produtos Epsilon
+Blusa de Frio Tricot,InnovateTech,1655.36,57,35,Roupas,IT-4,57937.6,2024-07-31,Roupas,Maceió,0.02,56778.85,Logística Iota
+Aspirador de Pó Philips,EliteElectronics,422.21,78,50,Eletrodomésticos,EE-7,21110.5,2024-08-01,Eletrodomésticos,Belém,0.1,18999.45,Logística Iota
+Geladeira Samsung Frost Free,PrimeProducts,158.76,16,44,Eletrodomésticos,PP-6,6985.44,2024-08-04,Eletrodomésticos,Vitória,0.07,6496.46,Distribuição Pi
+Torradeira Philips,InnovateTech,428.45,89,41,Eletrodomésticos,IT-5,17566.45,2024-07-30,Eletrodomésticos,Salvador,0.13,15282.81,Armazém Kappa
+Pelúcia Ursinho,TechNova,1191.65,51,17,Brinquedos,TN-7,20258.050000000003,2024-07-29,Brinquedos,Cuiabá,0.05,19245.15,Acessórios Zeta
+Café em Grãos,ProLine,900.32,92,17,Alimentos,PL-4,15305.44,2024-08-04,Alimentos,Belo Horizonte,0.08,14081.0,Distribuidora Alpha
+Creme para Massagem,HomeEssentials,309.93,40,5,Saúde,HE-9,1549.65,2024-07-30,Saúde,Manaus,0.13,1348.2,Mercadorias Eta
+Kits de Arte,InnovateTech,1988.72,13,29,Brinquedos,IT-9,57672.88,2024-08-03,Brinquedos,Rio de Janeiro,0.13,50175.41,Equipamentos Xi
+Lavadora de Roupas LG,ElectroMart,1075.06,28,46,Eletrodomésticos,EM-9,49452.759999999995,2024-08-04,Eletrodomésticos,Palmas,0.0,49452.76,Mercadorias Eta
+Aquecedor Cadence,ElectroMart,1047.21,63,7,Eletrodomésticos,EM-4,7330.47,2024-07-30,Eletrodomésticos,Maceió,0.03,7110.56,Logística Iota
+Feijão Preto,PrimeProducts,1033.48,40,13,Alimentos,PP-6,13435.24,2024-07-30,Alimentos,Porto Alegre,0.13,11688.66,Equipamentos Xi
+Mochila de Trekking,OptimaGoods,1014.65,98,17,Esportes,OG-3,17249.05,2024-07-29,Esportes,Porto Alegre,0.01,17076.56,Equipamentos Xi
+Patins Rollerblade,BrightChoice,361.36,31,28,Esportes,BC-4,10118.08,2024-08-01,Esportes,Recife,0.02,9915.72,Inovações Mu
+Repelente de Insetos,BrightChoice,1996.45,94,8,Saúde,BC-4,15971.6,2024-08-04,Saúde,Recife,0.03,15492.45,Fornecedora Gamma
+Saia Midi,QualityGoods,1313.13,94,50,Roupas,QG-1,65656.5,2024-07-30,Roupas,João Pessoa,0.14,56464.59,Distribuidora Alpha
+T-shirt Básica,TechNova,455.49,96,44,Roupas,TN-3,20041.56,2024-07-30,Roupas,Maceió,0.03,19440.31,Fornecedora Rho
+Água Micelar Garnier,PrimeProducts,1956.64,10,41,Beleza,PP-7,80222.24,2024-07-29,Beleza,Palmas,0.06,75408.91,Logística Iota
+Arco e Flecha de Brinquedo,EliteElectronics,1385.97,10,11,Brinquedos,EE-4,15245.67,2024-08-03,Brinquedos,Belo Horizonte,0.07,14178.47,Produtos Epsilon
+Blush MAC,Trendsetter,1380.3,55,7,Beleza,TS-10,9662.1,2024-08-03,Beleza,Cuiabá,0.03,9372.24,Produtos Epsilon
+Kit de Primeiros Socorros,SuperGadgets,1145.76,93,36,Saúde,SG-7,41247.36,2024-08-04,Saúde,Rio de Janeiro,0.1,37122.62,Comércio Theta
+Creme para Massagem,MegaBrand,1011.57,91,1,Saúde,MB-10,1011.57,2024-08-04,Saúde,Maceió,0.06,950.88,Equipamentos Xi
+Shorts Esportivo,QualityGoods,1278.68,70,39,Roupas,QG-8,49868.520000000004,2024-07-29,Roupas,João Pessoa,0.05,47375.09,Equipamentos Xi
+Aquecedor Cadence,SmartChoice,742.09,38,28,Eletrodomésticos,SC-3,20778.52,2024-08-04,Eletrodomésticos,Cuiabá,0.11,18492.88,Distribuidora Alpha
+Creme para o Rosto Clinique,PrimeProducts,814.57,10,26,Beleza,PP-3,21178.82,2024-08-04,Beleza,Belém,0.14,18213.79,Mercadorias Eta
+Suporte para Celular,SuperGadgets,429.85,38,15,Automotivo,SG-2,6447.75,2024-08-04,Automotivo,Curitiba,0.07,5996.41,Logística Iota
+Kit de Maquiagem O Boticário,MegaBrand,778.31,19,46,Beleza,MB-6,35802.259999999995,2024-07-29,Beleza,Rio de Janeiro,0.05,34012.15,Equipamentos Xi
+Desodorante Rexona,NextGenProducts,969.68,49,2,Beleza,NGP-5,1939.36,2024-07-31,Beleza,Campo Grande,0.1,1745.42,Inovações Mu
+TV LED 55'',GigaStore,592.88,75,27,Eletrônicos,GS-4,16007.76,2024-08-01,Eletrônicos,Teresina,0.11,14246.91,Acessórios Zeta
+Desembassador de Parabrisa,EliteElectronics,642.52,83,21,Automotivo,EE-9,13492.92,2024-07-31,Automotivo,Rio de Janeiro,0.05,12818.27,Comercial Nu
+Mesa de Jantar 6 Lugares,ElectroMart,1596.79,61,1,Móveis,EM-4,1596.79,2024-08-01,Móveis,Salvador,0.08,1469.05,Comércio Theta
+Mesa de Jantar 6 Lugares,Trendsetter,1248.27,97,18,Móveis,TS-2,22468.86,2024-08-01,Móveis,Campo Grande,0.06,21120.73,Equipamentos Xi
+Farinha de Trigo,OptimaGoods,440.21,89,29,Alimentos,OG-9,12766.09,2024-07-30,Alimentos,Belo Horizonte,0.03,12383.11,Importadora Beta
+Patins Rollerblade,OptimaGoods,965.67,16,29,Esportes,OG-6,28004.43,2024-07-31,Esportes,Palmas,0.15,23803.77,Produtos Epsilon
+Criado-Mudo,TechNova,979.82,58,8,Móveis,TN-5,7838.56,2024-08-03,Móveis,Brasília,0.1,7054.7,Distribuidora Alpha
+Cama Infantil,Trendsetter,1588.84,66,1,Móveis,TS-10,1588.84,2024-08-01,Móveis,Cuiabá,0.08,1461.73,Fornecedora Rho
+Jogo de Tabuleiro Monopoly,ValueLine,1466.86,65,46,Brinquedos,VL-7,67475.56,2024-07-29,Brinquedos,Vitória,0.03,65451.29,Serviços Omicron
+Cômoda 5 Gavetas,ElectroMart,1505.56,48,50,Móveis,EM-2,75278.0,2024-08-02,Móveis,Recife,0.07,70008.54,Inovações Mu
+Bicicleta Mountain Bike,EliteElectronics,171.59,90,9,Esportes,EE-1,1544.31,2024-08-02,Esportes,Vitória,0.13,1343.55,Venda Lambda
+Desumidificador Britânia,PrimeProducts,1609.73,25,24,Eletrodomésticos,PP-2,38633.520000000004,2024-07-30,Eletrodomésticos,Aracaju,0.09,35156.5,Comércio Theta
+Antialérgico,ElectroMart,890.96,60,25,Saúde,EM-3,22274.0,2024-07-29,Saúde,Campo Grande,0.08,20492.08,Logística Iota
+Base Vult,NextGenProducts,564.91,26,15,Beleza,NGP-1,8473.65,2024-07-30,Beleza,Teresina,0.08,7795.76,Logística Iota
+Mesa de Café com 2 Puffs,ProLine,1973.18,36,5,Móveis,PL-2,9865.9,2024-08-03,Móveis,Porto Alegre,0.05,9372.6,Fornecedora Rho
+Teclado Mecânico Razer,SuperGadgets,1919.9,80,42,Eletrônicos,SG-3,80635.8,2024-08-01,Eletrônicos,Manaus,0.12,70959.5,Suprimentos Delta
+Carrinho Hot Wheels,ElectroMart,933.34,42,48,Brinquedos,EM-6,44800.32,2024-07-31,Brinquedos,Salvador,0.1,40320.29,Distribuidora Alpha
+Drone DJI Mavic,ProLine,172.55,41,21,Eletrônicos,PL-4,3623.55,2024-08-04,Eletrônicos,Belo Horizonte,0.1,3261.2,Suprimentos Sigma
+Camisa Polo,GigaStore,941.1,19,24,Roupas,GS-9,22586.4,2024-07-31,Roupas,Vitória,0.14,19424.3,Logística Iota
+Tênis de Corrida Asics,QualityGoods,831.48,75,29,Esportes,QG-2,24112.920000000002,2024-07-31,Esportes,Campo Grande,0.03,23389.53,Venda Lambda
+Cama Box King Size,MegaBrand,1695.68,99,10,Móveis,MB-7,16956.8,2024-07-30,Móveis,Teresina,0.12,14921.98,Acessórios Zeta
+Kit de Ferramentas Automotivas,ValueLine,1425.22,85,26,Automotivo,VL-8,37055.72,2024-07-31,Automotivo,Recife,0.0,37055.72,Logística Iota
+Camiseta de Futebol Adidas,SuperGadgets,1338.66,86,31,Esportes,SG-2,41498.46,2024-07-30,Esportes,Cuiabá,0.15,35273.69,Suprimentos Delta
+Câmera de Segurança Arlo,InnovateTech,1446.5,43,38,Eletrônicos,IT-5,54967.0,2024-08-03,Eletrônicos,Rio de Janeiro,0.03,53317.99,Serviços Omicron
+Carrinho de Controle Remoto,InnovateTech,235.68,37,2,Brinquedos,IT-8,471.36,2024-07-31,Brinquedos,Porto Alegre,0.02,461.93,Logística Iota
+Espremedor de Frutas Hamilton Beach,ElectroMart,614.28,67,21,Eletrodomésticos,EM-9,12899.88,2024-07-29,Eletrodomésticos,São Paulo,0.14,11093.9,Serviços Omicron
+Vestido Casual,QualityGoods,812.01,56,24,Roupas,QG-10,19488.239999999998,2024-08-03,Roupas,Aracaju,0.01,19293.36,Importadora Tau
+Perfume Chanel No. 5,SmartBuy,106.74,34,32,Beleza,SB-3,3415.68,2024-08-03,Beleza,Fortaleza,0.08,3142.43,Comércio Theta
+Mala de Viagem,OptimaGoods,261.01,43,8,Automotivo,OG-6,2088.08,2024-07-31,Automotivo,João Pessoa,0.04,2004.56,Mercadorias Eta
+Vestido Casual,Trendsetter,1890.24,48,42,Roupas,TS-1,79390.08,2024-08-03,Roupas,Fortaleza,0.07,73832.77,Importadora Tau
+Tênis de Corrida Asics,InnovateTech,890.64,92,37,Esportes,IT-1,32953.68,2024-07-30,Esportes,São Luís,0.09,29987.85,Logística Iota
+Cordas de Escalada,BrightChoice,1009.73,12,35,Esportes,BC-5,35340.55,2024-08-01,Esportes,Aracaju,0.12,31099.68,Comercial Nu
+Creme para o Rosto Clinique,SuperGadgets,1776.36,39,19,Beleza,SG-10,33750.84,2024-07-30,Beleza,Curitiba,0.02,33075.82,Logística Iota
+Salsicha,SmartBuy,204.93,49,39,Alimentos,SB-2,7992.27,2024-07-30,Alimentos,Teresina,0.1,7193.04,Armazém Kappa
+Feijão Preto,EliteElectronics,1410.57,11,41,Alimentos,EE-10,57833.369999999995,2024-08-01,Alimentos,Porto Alegre,0.04,55520.04,Importadora Tau
+Cama Box King Size,ProLine,131.5,99,38,Móveis,PL-2,4997.0,2024-07-31,Móveis,Vitória,0.13,4347.39,Comercial Nu
+Drone DJI Mavic,GigaStore,1726.3,28,7,Eletrônicos,GS-6,12084.1,2024-08-01,Eletrônicos,Fortaleza,0.04,11600.74,Serviços Omicron
+Suéter de Lã,ElectroMart,1365.75,77,45,Roupas,EM-2,61458.75,2024-08-04,Roupas,Maceió,0.03,59614.99,Logística Iota
+Camisa de Flanela,QualityGoods,564.69,74,9,Roupas,QG-7,5082.210000000001,2024-07-31,Roupas,Aracaju,0.0,5082.21,Distribuidora Alpha
+Tenda para Acampamento,PrimeProducts,617.48,37,13,Esportes,PP-1,8027.24,2024-08-02,Esportes,João Pessoa,0.01,7946.97,Comércio Theta
+Poltrona Reclinável,SmartBuy,439.74,33,37,Móveis,SB-10,16270.380000000001,2024-07-30,Móveis,São Luís,0.07,15131.45,Comércio Theta
+Cordas de Escalada,ProLine,1731.89,58,15,Esportes,PL-4,25978.350000000002,2024-08-04,Esportes,Teresina,0.06,24419.65,Suprimentos Delta
+Tênis de Corrida Asics,SmartBuy,1770.62,99,20,Esportes,SB-6,35412.399999999994,2024-08-03,Esportes,João Pessoa,0.06,33287.66,Inovações Mu
+Painel para TV,ProLine,158.76,82,23,Móveis,PL-5,3651.4799999999996,2024-08-03,Móveis,Rio de Janeiro,0.01,3614.97,Mercadorias Eta
+Suéter de Lã,HomeEssentials,1714.71,91,22,Roupas,HE-6,37723.62,2024-07-29,Roupas,Porto Alegre,0.06,35460.2,Importadora Beta
+Creme Anti-Idade L'Oréal,BrightChoice,1328.47,81,40,Beleza,BC-8,53138.8,2024-08-01,Beleza,Fortaleza,0.09,48356.31,Armazém Upsilon
+Antena para Carro,EcoWare,1898.7,86,44,Automotivo,EW-10,83542.8,2024-07-31,Automotivo,Maceió,0.12,73517.66,Distribuição Pi
+Ventilador Mondial,InnovateTech,614.23,49,34,Eletrodomésticos,IT-4,20883.82,2024-08-01,Eletrodomésticos,Belo Horizonte,0.04,20048.47,Serviços Omicron
+Curativos Esterilizados,BrightChoice,861.62,42,29,Saúde,BC-1,24986.98,2024-07-29,Saúde,Belo Horizonte,0.0,24986.98,Acessórios Zeta
+Feijão Preto,GigaStore,1709.97,10,45,Alimentos,GS-6,76948.65,2024-08-04,Alimentos,Belo Horizonte,0.05,73101.22,Fornecedora Gamma
+Kit de Primeiros Socorros,SmartChoice,1295.24,6,13,Saúde,SC-6,16838.12,2024-08-04,Saúde,Salvador,0.11,14985.93,Equipamentos Xi
+Açúcar Refinado,FutureTech,477.49,98,9,Alimentos,FT-6,4297.41,2024-08-03,Alimentos,Recife,0.11,3824.69,Inovações Mu
+Bicicleta Infantil,ValueLine,1824.19,73,37,Brinquedos,VL-1,67495.03,2024-08-01,Brinquedos,São Luís,0.03,65470.18,Armazém Upsilon
+Tênis de Corrida Asics,InnovateTech,1480.38,25,32,Esportes,IT-6,47372.16,2024-08-01,Esportes,Porto Alegre,0.05,45003.55,Produtos Epsilon
+Cafeteira Nespresso,SmartChoice,1258.82,68,23,Eletrodomésticos,SC-8,28952.859999999997,2024-07-30,Eletrodomésticos,Rio de Janeiro,0.1,26057.57,Inovações Mu
+Medicamento Para Dor,EcoWare,883.11,90,41,Saúde,EW-6,36207.51,2024-08-01,Saúde,Belo Horizonte,0.08,33310.91,Acessórios Zeta
+Margarina,SmartChoice,1324.66,74,15,Alimentos,SC-9,19869.9,2024-07-30,Alimentos,São Luís,0.06,18677.71,Mercadorias Eta
+Calça Jeans Masculina,MegaBrand,1755.83,9,39,Roupas,MB-1,68477.37,2024-07-30,Roupas,São Paulo,0.13,59575.31,Importadora Beta
+Tênis de Basquete Converse,BrightChoice,295.42,54,43,Esportes,BC-10,12703.060000000001,2024-07-31,Esportes,São Luís,0.07,11813.85,Acessórios Zeta
+Camisa Social Feminina,Trendsetter,1919.14,38,36,Roupas,TS-10,69089.04000000001,2024-07-31,Roupas,Salvador,0.02,67707.26,Importadora Beta
+Cafeteira Nespresso,ValueLine,463.75,89,1,Eletrodomésticos,VL-7,463.75,2024-07-31,Eletrodomésticos,Vitória,0.06,435.92,Importadora Tau
+Blush MAC,HomeEssentials,1274.77,94,16,Beleza,HE-5,20396.32,2024-08-04,Beleza,Vitória,0.11,18152.72,Suprimentos Sigma
+Manteiga de Amendoim,ElectroMart,1814.03,66,33,Alimentos,EM-4,59862.99,2024-08-04,Alimentos,João Pessoa,0.04,57468.47,Suprimentos Delta
+Fogão Electrolux,ValueLine,1341.31,21,3,Eletrodomésticos,VL-4,4023.93,2024-07-29,Eletrodomésticos,Teresina,0.1,3621.54,Distribuidora Alpha
+Console Xbox Series X,QualityGoods,543.42,17,16,Eletrônicos,QG-2,8694.72,2024-07-29,Eletrônicos,Vitória,0.05,8259.98,Equipamentos Xi
+Poltrona Reclinável,EcoWare,372.83,89,8,Móveis,EW-3,2982.64,2024-07-30,Móveis,Palmas,0.08,2744.03,Serviços Omicron
+Granola,GigaStore,304.89,67,22,Alimentos,GS-7,6707.58,2024-07-29,Alimentos,Maceió,0.0,6707.58,Comercial Nu
+Repelente de Insetos,EcoWare,1337.37,54,25,Saúde,EW-6,33434.25,2024-08-01,Saúde,Belém,0.15,28419.11,Inovações Mu
+Creme para Mãos Granado,HomeEssentials,1281.08,72,20,Beleza,HE-8,25621.6,2024-08-02,Beleza,Vitória,0.0,25621.6,Produtos Epsilon
+Trampolim Infantil,EliteElectronics,790.28,98,29,Brinquedos,EE-7,22918.12,2024-07-29,Brinquedos,Vitória,0.01,22688.94,Distribuição Pi
+Protetor Solar La Roche-Posay,HomeEssentials,1159.59,35,16,Beleza,HE-9,18553.44,2024-07-29,Beleza,Goiânia,0.13,16141.49,Produtos Epsilon
+Fogão Electrolux,OptimaGoods,1281.55,43,39,Eletrodomésticos,OG-2,49980.45,2024-07-31,Eletrodomésticos,Belém,0.01,49480.65,Armazém Kappa
+Camiseta Masculina Básica,SmartBuy,1778.27,67,38,Roupas,SB-4,67574.26,2024-08-03,Roupas,Goiânia,0.05,64195.55,Inovações Mu
+Lápis de Olho Maybelline,SuperGadgets,1992.91,14,14,Beleza,SG-9,27900.74,2024-07-30,Beleza,Campo Grande,0.06,26226.7,Equipamentos Xi
+Cordas de Escalada,HomeEssentials,1997.05,23,42,Esportes,HE-7,83876.09999999999,2024-07-29,Esportes,Teresina,0.0,83876.1,Armazém Upsilon
+Smartphone iPhone 13,EcoWare,829.9,60,34,Eletrônicos,EW-5,28216.6,2024-07-29,Eletrônicos,Rio de Janeiro,0.14,24266.28,Comercial Nu
+Bicicleta Infantil,NextGenProducts,1344.93,44,41,Brinquedos,NGP-7,55142.130000000005,2024-07-30,Brinquedos,Aracaju,0.01,54590.71,Importadora Beta
+Calça Legging,MegaBrand,1216.64,19,11,Roupas,MB-7,13383.04,2024-08-01,Roupas,Recife,0.13,11643.24,Comercial Nu
+Azeite de Oliva,OptimaGoods,1295.8,88,50,Alimentos,OG-3,64790.0,2024-07-31,Alimentos,Palmas,0.05,61550.5,Serviços Omicron
+Filtro de Ar K&N,HomeEssentials,537.31,54,47,Automotivo,HE-2,25253.569999999996,2024-08-04,Automotivo,Campo Grande,0.04,24243.43,Armazém Kappa
+Smartphone iPhone 13,SmartBuy,453.71,92,17,Eletrônicos,SB-3,7713.07,2024-08-03,Eletrônicos,Teresina,0.06,7250.29,Comércio Theta
+Azeite de Oliva,PrimeProducts,567.33,81,32,Alimentos,PP-8,18154.56,2024-08-04,Alimentos,Curitiba,0.01,17973.01,Fornecedora Gamma
+Creme para o Rosto Clinique,TechNova,1111.85,89,42,Beleza,TN-6,46697.7,2024-07-30,Beleza,Belo Horizonte,0.04,44829.79,Comércio Theta
+Bola de Basquete Spalding,GigaStore,631.69,83,8,Esportes,GS-8,5053.52,2024-08-03,Esportes,Vitória,0.05,4800.84,Comércio Theta
+Antena para Carro,QualityGoods,541.11,48,42,Automotivo,QG-3,22726.62,2024-08-03,Automotivo,Campo Grande,0.11,20226.69,Inovações Mu
+Tenda para Acampamento,SmartChoice,959.66,70,30,Esportes,SC-4,28789.8,2024-08-04,Esportes,Porto Alegre,0.04,27638.21,Logística Iota
+Câmera de Segurança Arlo,TechNova,285.46,74,42,Eletrônicos,TN-9,11989.32,2024-07-29,Eletrônicos,Teresina,0.1,10790.39,Equipamentos Xi
+Câmera Canon EOS R5,ValueLine,221.9,60,42,Eletrônicos,VL-1,9319.800000000001,2024-08-04,Eletrônicos,Manaus,0.09,8481.02,Inovações Mu
+Trampolim Infantil,QualityGoods,449.03,57,36,Brinquedos,QG-5,16165.079999999998,2024-08-02,Brinquedos,São Paulo,0.01,16003.43,Importadora Beta
+Trenzinho Elétrico,InnovateTech,1504.26,49,34,Brinquedos,IT-5,51144.84,2024-07-31,Brinquedos,Manaus,0.02,50121.94,Comercial Nu
+Luvas de Boxe Everlast,InnovateTech,554.45,7,42,Esportes,IT-8,23286.9,2024-08-02,Esportes,Cuiabá,0.09,21191.08,Mercadorias Eta
+Lápis de Olho Maybelline,ValueLine,1202.23,90,6,Beleza,VL-5,7213.38,2024-07-31,Beleza,Brasília,0.11,6419.91,Suprimentos Sigma
+Monitor UltraWide 34'',MegaBrand,655.23,94,28,Eletrônicos,MB-10,18346.440000000002,2024-08-02,Eletrônicos,Campo Grande,0.14,15777.94,Venda Lambda
+Perfume Chanel No. 5,Trendsetter,1176.43,90,34,Beleza,TS-10,39998.62,2024-08-03,Beleza,Maceió,0.04,38398.68,Comércio Theta
+Cobertura para Carro,QualityGoods,413.54,52,15,Automotivo,QG-8,6203.1,2024-08-04,Automotivo,Belo Horizonte,0.01,6141.07,Importadora Beta
+Curativos Esterilizados,BrightChoice,118.67,13,33,Saúde,BC-8,3916.11,2024-07-31,Saúde,Fortaleza,0.06,3681.14,Inovações Mu
+Blusa de Seda,HomeEssentials,1735.79,15,39,Roupas,HE-10,67695.81,2024-07-30,Roupas,João Pessoa,0.09,61603.19,Venda Lambda
+Leite Desnatado,EcoWare,462.88,22,39,Alimentos,EW-4,18052.32,2024-07-30,Alimentos,São Paulo,0.14,15525.0,Fornecedora Gamma
+Lavadora de Roupas LG,EliteElectronics,1035.98,99,16,Eletrodomésticos,EE-4,16575.68,2024-07-31,Eletrodomésticos,Vitória,0.08,15249.63,Inovações Mu
+Solução Salina,ValueLine,1535.92,74,11,Saúde,VL-9,16895.120000000003,2024-07-31,Saúde,Fortaleza,0.11,15036.66,Fornecedora Rho
+Monitor UltraWide 34'',FutureTech,658.7,22,23,Eletrônicos,FT-4,15150.1,2024-08-03,Eletrônicos,Aracaju,0.05,14392.59,Equipamentos Xi
+Pasta de Dente,PrimeProducts,1426.7,32,48,Saúde,PP-1,68481.6,2024-07-29,Saúde,Maceió,0.05,65057.52,Suprimentos Delta
+Capa de Banco,OptimaGoods,1077.91,37,50,Automotivo,OG-10,53895.50000000001,2024-07-31,Automotivo,Belo Horizonte,0.13,46889.09,Distribuidora Alpha
+Aspirador de Pó Philips,QualityGoods,1694.1,61,20,Eletrodomésticos,QG-6,33882.0,2024-08-04,Eletrodomésticos,Vitória,0.07,31510.26,Armazém Kappa
+Ar Condicionado LG,SuperGadgets,216.77,82,3,Eletrodomésticos,SG-3,650.3100000000001,2024-08-01,Eletrodomésticos,Aracaju,0.0,650.31,Importadora Tau
+Enlatado de Milho,ElectroMart,1683.1,84,36,Alimentos,EM-10,60591.6,2024-08-01,Alimentos,Brasília,0.0,60591.6,Serviços Omicron
+Bateria de Carro Varta,MegaBrand,722.75,70,33,Automotivo,MB-2,23850.75,2024-08-04,Automotivo,Aracaju,0.08,21942.69,Mercadorias Eta
+Batedeira KitchenAid,NextGenProducts,1204.72,26,49,Eletrodomésticos,NGP-6,59031.28,2024-07-30,Eletrodomésticos,Maceió,0.04,56670.03,Suprimentos Delta
+Alarmes e Sensores,SmartChoice,834.31,43,21,Automotivo,SC-10,17520.51,2024-08-04,Automotivo,João Pessoa,0.01,17345.3,Acessórios Zeta
+Máscara de Cílios Dior,ElectroMart,1286.84,8,16,Beleza,EM-3,20589.44,2024-08-04,Beleza,Maceió,0.05,19559.97,Importadora Beta
+Purificador de Água Consul,SuperGadgets,1831.34,61,29,Eletrodomésticos,SG-8,53108.86,2024-07-30,Eletrodomésticos,Campo Grande,0.02,52046.68,Suprimentos Delta
+Torradeira Philips,FutureTech,915.64,64,43,Eletrodomésticos,FT-6,39372.52,2024-07-29,Eletrodomésticos,Cuiabá,0.06,37010.17,Comércio Theta
+Mesa de Cabeceira,ValueLine,760.53,90,19,Móveis,VL-10,14450.07,2024-07-29,Móveis,Teresina,0.13,12571.56,Produtos Epsilon
+Cama Infantil,EcoWare,1880.91,44,34,Móveis,EW-7,63950.94,2024-07-31,Móveis,Belo Horizonte,0.02,62671.92,Venda Lambda
+Camiseta Masculina Básica,OptimaGoods,862.37,42,23,Roupas,OG-10,19834.51,2024-08-01,Roupas,Salvador,0.04,19041.13,Logística Iota
+Camisa Polo,SmartBuy,1717.45,11,15,Roupas,SB-2,25761.75,2024-08-02,Roupas,Campo Grande,0.02,25246.51,Comercial Nu
+Mouse Logitech MX Master,OptimaGoods,1047.74,87,6,Eletrônicos,OG-9,6286.4400000000005,2024-07-30,Eletrônicos,Aracaju,0.09,5720.66,Suprimentos Delta
+Boneco Star Wars,EliteElectronics,1300.78,34,5,Brinquedos,EE-3,6503.9,2024-07-30,Brinquedos,Belo Horizonte,0.09,5918.55,Importadora Beta
+Smartphone iPhone 13,ElectroMart,624.17,86,20,Eletrônicos,EM-4,12483.4,2024-07-31,Eletrônicos,Goiânia,0.04,11984.06,Comércio Theta
+Blusa de Frio Tricot,TechNova,1705.64,66,12,Roupas,TN-6,20467.68,2024-08-01,Roupas,Brasília,0.03,19853.65,Comercial Nu
+Estação de Brinquedos,MegaBrand,908.33,74,50,Brinquedos,MB-10,45416.5,2024-07-29,Brinquedos,Vitória,0.14,39058.19,Fornecedora Rho
+Cobertura para Carro,NextGenProducts,1771.59,75,34,Automotivo,NGP-7,60234.06,2024-07-30,Automotivo,Vitória,0.14,51801.29,Fornecedora Gamma
+Atum em Lata,QualityGoods,1305.21,28,3,Alimentos,QG-7,3915.63,2024-08-03,Alimentos,Cuiabá,0.05,3719.85,Mercadorias Eta
+Cobertura para Carro,NextGenProducts,1711.7,100,48,Automotivo,NGP-6,82161.6,2024-08-01,Automotivo,Palmas,0.06,77231.9,Acessórios Zeta
+Creme Anti-Idade L'Oréal,InnovateTech,1859.57,38,7,Beleza,IT-2,13016.99,2024-08-03,Beleza,Fortaleza,0.09,11845.46,Comércio Theta
+Monitor UltraWide 34'',QualityGoods,239.55,38,37,Eletrônicos,QG-6,8863.35,2024-08-02,Eletrônicos,Recife,0.13,7711.11,Comércio Theta
+Calça de Moletom,ElectroMart,1361.89,51,49,Roupas,EM-10,66732.61,2024-07-30,Roupas,Salvador,0.11,59392.02,Equipamentos Xi
+Carrinho Hot Wheels,SuperGadgets,1366.86,39,40,Brinquedos,SG-2,54674.399999999994,2024-08-02,Brinquedos,Rio de Janeiro,0.08,50300.45,Armazém Upsilon
+Máscara Facial,BrightChoice,1312.47,10,33,Saúde,BC-2,43311.51,2024-07-29,Saúde,Teresina,0.08,39846.59,Armazém Upsilon
+Blusa de Frio Tricot,QualityGoods,349.51,74,8,Roupas,QG-3,2796.08,2024-08-04,Roupas,São Paulo,0.0,2796.08,Suprimentos Delta
+Camisa de Flanela,EliteElectronics,244.29,8,30,Roupas,EE-3,7328.7,2024-08-02,Roupas,Palmas,0.03,7108.84,Fornecedora Gamma
+Kit de Pesca,InnovateTech,1217.02,99,3,Esportes,IT-4,3651.06,2024-08-01,Esportes,Porto Alegre,0.12,3212.93,Produtos Epsilon
+Luvas de Boxe Everlast,SuperGadgets,585.24,83,19,Esportes,SG-4,11119.56,2024-07-29,Esportes,Porto Alegre,0.0,11119.56,Comercial Nu
+Kit de Maquiagem O Boticário,GigaStore,932.89,20,34,Beleza,GS-8,31718.26,2024-08-04,Beleza,Aracaju,0.13,27594.89,Armazém Upsilon
+Robô Educativo,Trendsetter,349.92,72,32,Brinquedos,TS-7,11197.44,2024-08-04,Brinquedos,Maceió,0.06,10525.59,Importadora Tau
+Boneca de Pano,SuperGadgets,1813.98,99,41,Brinquedos,SG-10,74373.18000000001,2024-07-30,Brinquedos,Manaus,0.04,71398.25,Armazém Upsilon
+Bola de Basquete Spalding,NextGenProducts,1024.53,46,14,Esportes,NGP-8,14343.42,2024-07-30,Esportes,Fortaleza,0.04,13769.68,Logística Iota
+Camiseta de Futebol Adidas,BrightChoice,158.4,89,9,Esportes,BC-1,1425.6000000000001,2024-08-04,Esportes,Curitiba,0.12,1254.53,Serviços Omicron
+Limpador de Parabrisa,MegaBrand,641.07,77,20,Automotivo,MB-5,12821.400000000001,2024-08-02,Automotivo,Palmas,0.02,12564.97,Serviços Omicron
+Patins Rollerblade,QualityGoods,1123.06,23,49,Esportes,QG-3,55029.939999999995,2024-08-01,Esportes,Cuiabá,0.08,50627.54,Logística Iota
+Protetor Solar La Roche-Posay,Trendsetter,1606.93,98,12,Beleza,TS-4,19283.16,2024-08-01,Beleza,Salvador,0.05,18319.0,Suprimentos Delta
+Vestido Casual,Trendsetter,894.68,36,34,Roupas,TS-7,30419.12,2024-08-02,Roupas,São Luís,0.06,28593.97,Distribuição Pi
+Mesa de Cabeceira,FutureTech,1719.07,19,40,Móveis,FT-3,68762.8,2024-08-04,Móveis,Curitiba,0.03,66699.92,Fornecedora Rho
+Suéter de Lã,QualityGoods,326.99,55,40,Roupas,QG-3,13079.6,2024-07-30,Roupas,Porto Alegre,0.1,11771.64,Venda Lambda
+Calça de Moletom,PrimeProducts,1555.97,51,16,Roupas,PP-1,24895.52,2024-08-03,Roupas,Cuiabá,0.04,23899.7,Armazém Upsilon
+Camiseta Masculina Básica,OptimaGoods,1053.16,17,42,Roupas,OG-10,44232.72,2024-07-29,Roupas,Teresina,0.05,42021.08,Distribuidora Alpha
+Aquecedor Cadence,OptimaGoods,802.26,39,6,Eletrodomésticos,OG-4,4813.5599999999995,2024-07-29,Eletrodomésticos,Campo Grande,0.11,4284.07,Armazém Upsilon
+Tênis de Basquete Converse,Trendsetter,1761.39,54,14,Esportes,TS-5,24659.460000000003,2024-08-02,Esportes,São Luís,0.14,21207.14,Acessórios Zeta
+Cereal Matinal,Trendsetter,1689.32,79,45,Alimentos,TS-3,76019.4,2024-08-01,Alimentos,São Luís,0.1,68417.46,Importadora Beta
+Protetor Solar La Roche-Posay,QualityGoods,722.06,24,22,Beleza,QG-8,15885.32,2024-07-29,Beleza,Salvador,0.07,14773.35,Importadora Tau
+Kit de Primeiros Socorros,EcoWare,150.02,25,33,Saúde,EW-1,4950.660000000001,2024-07-30,Saúde,João Pessoa,0.13,4307.07,Acessórios Zeta
+Saia Midi,SmartBuy,1159.22,73,29,Roupas,SB-1,33617.38,2024-07-30,Roupas,Campo Grande,0.01,33281.21,Importadora Tau
+Estante para Livros,ElectroMart,1680.11,83,9,Móveis,EM-2,15120.99,2024-07-31,Móveis,Campo Grande,0.07,14062.52,Importadora Tau
+Geladeira Samsung Frost Free,ProLine,1482.09,44,47,Eletrodomésticos,PL-3,69658.23,2024-08-01,Eletrodomésticos,Aracaju,0.06,65478.74,Inovações Mu
+TV LED 55'',ProLine,489.98,39,50,Eletrônicos,PL-2,24499.0,2024-07-31,Eletrônicos,Goiânia,0.12,21559.12,Importadora Tau
+Camisa Social Feminina,EliteElectronics,1925.82,7,43,Roupas,EE-6,82810.26,2024-08-03,Roupas,São Paulo,0.12,72873.03,Logística Iota
+Granola,EliteElectronics,1732.95,68,39,Alimentos,EE-8,67585.05,2024-07-30,Alimentos,Teresina,0.01,66909.2,Equipamentos Xi
+Perfume Chanel No. 5,TechNova,1142.33,28,42,Beleza,TN-6,47977.86,2024-08-04,Beleza,João Pessoa,0.09,43659.85,Comércio Theta
+Ventilador Mondial,PrimeProducts,385.15,24,13,Eletrodomésticos,PP-6,5006.95,2024-08-01,Eletrodomésticos,Campo Grande,0.13,4356.05,Acessórios Zeta
+Pasta de Dente,HomeEssentials,1131.63,84,7,Saúde,HE-6,7921.410000000001,2024-08-02,Saúde,Vitória,0.1,7129.27,Importadora Tau
+Geladeira Samsung Frost Free,InnovateTech,1499.56,88,23,Eletrodomésticos,IT-7,34489.88,2024-08-03,Eletrodomésticos,Cuiabá,0.1,31040.89,Distribuidora Alpha
+Creme para Massagem,ValueLine,1449.97,59,5,Saúde,VL-1,7249.85,2024-08-01,Saúde,Palmas,0.13,6307.37,Logística Iota
+Água Micelar Garnier,NextGenProducts,1245.85,7,42,Beleza,NGP-8,52325.7,2024-07-30,Beleza,João Pessoa,0.0,52325.7,Inovações Mu
+Condicionador Pantene,NextGenProducts,1725.4,54,4,Beleza,NGP-3,6901.6,2024-07-29,Beleza,São Paulo,0.02,6763.57,Fornecedora Gamma
+Macacão Jeans,HomeEssentials,273.62,6,13,Roupas,HE-5,3557.06,2024-07-30,Roupas,Maceió,0.1,3201.35,Importadora Beta
+Óleo de Soja,SmartBuy,876.24,16,28,Alimentos,SB-10,24534.72,2024-08-01,Alimentos,Aracaju,0.13,21345.21,Fornecedora Rho
+Cabo de Ignição NGK,GigaStore,1207.65,59,5,Automotivo,GS-3,6038.25,2024-08-04,Automotivo,Brasília,0.06,5675.95,Comercial Nu
+Máquina de Café Expresso DeLonghi,SmartChoice,591.78,73,34,Eletrodomésticos,SC-2,20120.52,2024-07-30,Eletrodomésticos,São Paulo,0.09,18309.67,Logística Iota
+Bola de Futebol Nike,GigaStore,103.26,30,41,Esportes,GS-6,4233.66,2024-08-02,Esportes,Cuiabá,0.08,3894.97,Venda Lambda
+Lavadora de Roupas LG,GigaStore,1175.34,36,40,Eletrodomésticos,GS-6,47013.6,2024-07-30,Eletrodomésticos,Palmas,0.14,40431.7,Acessórios Zeta
+Perfume Chanel No. 5,InnovateTech,1775.3,74,20,Beleza,IT-2,35506.0,2024-08-01,Beleza,Maceió,0.13,30890.22,Inovações Mu
+Camisa Polo,GigaStore,1138.78,32,26,Roupas,GS-9,29608.28,2024-08-02,Roupas,São Luís,0.13,25759.2,Produtos Epsilon
+Escova de Dentes Elétrica,SmartBuy,960.04,24,24,Saúde,SB-4,23040.96,2024-07-30,Saúde,Belém,0.06,21658.5,Importadora Tau
+Arroz Integral,HomeEssentials,1465.93,88,29,Alimentos,HE-2,42511.97,2024-07-31,Alimentos,Cuiabá,0.11,37835.65,Comércio Theta
+Kit de Natação Speedo,Trendsetter,1808.6,88,11,Esportes,TS-8,19894.6,2024-07-30,Esportes,João Pessoa,0.01,19695.65,Distribuição Pi
+Margarina,ElectroMart,1292.85,6,50,Alimentos,EM-9,64642.49999999999,2024-07-31,Alimentos,Cuiabá,0.01,63996.07,Importadora Beta
+Kits de Arte,PrimeProducts,1526.87,41,13,Brinquedos,PP-10,19849.309999999998,2024-08-02,Brinquedos,Salvador,0.15,16871.91,Armazém Kappa
+Cereal Matinal,MegaBrand,1361.18,33,26,Alimentos,MB-4,35390.68,2024-07-29,Alimentos,Aracaju,0.1,31851.61,Equipamentos Xi
+Bola de Basquete Spalding,BrightChoice,294.51,81,2,Esportes,BC-8,589.02,2024-07-30,Esportes,Belo Horizonte,0.1,530.12,Suprimentos Sigma
+Pomada para Cortes,ProLine,766.4,82,46,Saúde,PL-9,35254.4,2024-07-30,Saúde,Palmas,0.02,34549.31,Suprimentos Sigma
+Estante para Livros,OptimaGoods,817.1,39,30,Móveis,OG-2,24513.0,2024-08-02,Móveis,Fortaleza,0.08,22551.96,Importadora Tau
+Kit de Maquiagem O Boticário,Trendsetter,411.67,80,49,Beleza,TS-9,20171.83,2024-08-01,Beleza,Curitiba,0.08,18558.08,Logística Iota
+Mesa de Jantar 6 Lugares,EcoWare,1494.14,52,33,Móveis,EW-6,49306.62,2024-08-01,Móveis,Porto Alegre,0.1,44375.96,Importadora Tau
+Feijão Preto,Trendsetter,491.05,67,5,Alimentos,TS-8,2455.25,2024-08-03,Alimentos,Vitória,0.02,2406.14,Equipamentos Xi
+Colchonete para Yoga,EliteElectronics,639.18,15,21,Esportes,EE-4,13422.779999999999,2024-07-29,Esportes,Maceió,0.11,11946.27,Distribuição Pi
+Arco e Flecha de Brinquedo,ValueLine,1723.18,91,25,Brinquedos,VL-5,43079.5,2024-08-01,Brinquedos,Goiânia,0.04,41356.32,Distribuidora Alpha
+Forno de Embutir Brastemp,BrightChoice,124.14,48,16,Eletrodomésticos,BC-10,1986.24,2024-08-04,Eletrodomésticos,Belém,0.1,1787.62,Suprimentos Delta
+Armário de Cozinha,EcoWare,995.14,84,27,Móveis,EW-1,26868.78,2024-08-04,Móveis,Campo Grande,0.08,24719.28,Serviços Omicron
+Cabo de Ignição NGK,PrimeProducts,1006.99,67,50,Automotivo,PP-10,50349.5,2024-07-29,Automotivo,Goiânia,0.02,49342.51,Fornecedora Gamma
+Aspirador de Pó Philips,QualityGoods,1301.34,91,5,Eletrodomésticos,QG-10,6506.7,2024-08-04,Eletrodomésticos,Belém,0.03,6311.5,Armazém Upsilon
+Vitaminas C + D,PrimeProducts,1393.64,45,29,Saúde,PP-10,40415.560000000005,2024-07-31,Saúde,Brasília,0.09,36778.16,Fornecedora Gamma
+Guarda-Roupa 6 Portas,OptimaGoods,264.05,82,11,Móveis,OG-10,2904.55,2024-08-04,Móveis,Palmas,0.02,2846.46,Serviços Omicron
+Kit de Primeiros Socorros,ElectroMart,1259.28,29,12,Saúde,EM-6,15111.36,2024-08-04,Saúde,Manaus,0.0,15111.36,Equipamentos Xi
+Boneca de Pano,SmartBuy,767.89,76,34,Brinquedos,SB-7,26108.26,2024-08-04,Brinquedos,Porto Alegre,0.05,24802.85,Fornecedora Gamma
+Cadeira de Escritório com Rodízios,BrightChoice,945.46,50,32,Móveis,BC-1,30254.72,2024-07-31,Móveis,Aracaju,0.11,26926.7,Importadora Tau
+Mesa de Jantar 6 Lugares,ElectroMart,1455.66,66,47,Móveis,EM-9,68416.02,2024-08-02,Móveis,São Luís,0.1,61574.42,Acessórios Zeta
+Robô Educativo,GigaStore,877.57,81,6,Brinquedos,GS-4,5265.42,2024-07-31,Brinquedos,Belo Horizonte,0.13,4580.92,Logística Iota
+Banco de Jardim,PrimeProducts,1031.73,49,22,Móveis,PP-2,22698.06,2024-08-03,Móveis,Salvador,0.1,20428.25,Distribuidora Alpha
+Robô Educativo,ElectroMart,310.81,7,43,Brinquedos,EM-10,13364.83,2024-08-03,Brinquedos,Rio de Janeiro,0.02,13097.53,Importadora Beta
+Colchonete para Yoga,QualityGoods,1460.72,14,1,Esportes,QG-9,1460.72,2024-08-03,Esportes,Belo Horizonte,0.12,1285.43,Importadora Beta
+Sofá de Canto,EcoWare,1314.17,42,18,Móveis,EW-2,23655.06,2024-08-04,Móveis,Fortaleza,0.08,21762.66,Importadora Beta
+Suplemento de Ferro,OptimaGoods,1417.23,73,32,Saúde,OG-1,45351.36,2024-07-30,Saúde,Vitória,0.04,43537.31,Inovações Mu
+Blusa de Frio Tricot,MegaBrand,977.0,7,33,Roupas,MB-3,32241.0,2024-08-03,Roupas,Manaus,0.09,29339.31,Importadora Beta
+Smartphone iPhone 13,TechNova,1633.69,26,49,Eletrônicos,TN-9,80050.81,2024-07-29,Eletrônicos,Curitiba,0.09,72846.24,Armazém Kappa
+Cadeira de Camping,SmartBuy,416.77,28,41,Esportes,SB-7,17087.57,2024-08-01,Esportes,Teresina,0.03,16574.94,Acessórios Zeta
+Fogão Electrolux,SuperGadgets,473.42,38,48,Eletrodomésticos,SG-9,22724.16,2024-07-29,Eletrodomésticos,João Pessoa,0.04,21815.19,Produtos Epsilon
+Enlatado de Milho,NextGenProducts,216.04,66,45,Alimentos,NGP-3,9721.8,2024-08-03,Alimentos,Manaus,0.02,9527.36,Venda Lambda
+Projetor Epson Home Cinema,PrimeProducts,672.93,50,48,Eletrônicos,PP-3,32300.64,2024-08-04,Eletrônicos,Recife,0.09,29393.58,Fornecedora Rho
