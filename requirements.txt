@@ -269,9 +269,9 @@ wsproto==1.2.0
 yarl==1.9.4
 zope.event==5.0
 zope.interface==6.4.post2
-streamlit
-matplotlib
-seaborn
-scikit-learn
-pandas
+streamlit==1.36.0
+matplotlib==3.9.1
+seaborn==0.13.2
+scikit-learn==1.5.1
+pandas==2.2.2
 # Adicione outras dependências conforme necessário
