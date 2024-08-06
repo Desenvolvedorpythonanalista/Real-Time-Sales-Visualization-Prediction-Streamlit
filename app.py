@@ -15,6 +15,20 @@ def formatar_moeda(valor):
     """Formata o valor numérico como moeda brasileira (R$)."""
     return f"R$ {valor:,.2f}"
 
+def gerar_dados_simulados():
+    """Gera um DataFrame com dados fictícios para teste."""
+    return pd.DataFrame({
+        'setor': ['A', 'B', 'C'],
+        'produto': ['Produto1', 'Produto2', 'Produto3'],
+        'número_vendas': [10, 20, 30],
+        'valor_total_venda': [1000, 2000, 3000],
+        'preço': [100, 200, 300],
+        'marca': ['Marca1', 'Marca2', 'Marca3'],
+        'localizacao': ['Loja1', 'Loja2', 'Loja3'],
+        'data_venda': [datetime.now() - timedelta(days=1)] * 3,
+        'valor_vendas_semana': [1500, 2500, 3500]
+    })
+
 def exibir_dashboard(df):
     """Exibe o dashboard de vendas no Streamlit."""
     st.title("Dashboard de Vendas em Tempo Real")
@@ -77,7 +91,7 @@ def exibir_dashboard(df):
         if 'preço' in df.columns and 'número_vendas' in df.columns:
             df_lucro_bruto = df.groupby("produto").apply(
                 lambda x: pd.Series({
-                    "lucro_bruto": (x["valor_total_venda"].sum() - x["número_vendas"].sum() * x["preço"].mean())
+                    "lucro_bruto": (x["valor_total_venda"].sum() - (x["número_vendas"] * x["preço"]).sum())
                 })
             ).reset_index()
             df_lucro_bruto = df_lucro_bruto.sort_values(by="lucro_bruto", ascending=True).head(1)
@@ -217,17 +231,25 @@ def previsao_vendas(modelo, preprocessor):
             st.write(f'Valor total de venda previsto: {formatar_moeda(valor_previsto[0])}')
 
 if __name__ == "__main__":
-    # Carrega e prepara os dados
-    df = carregar_dados('dados_vendas.csv')
-    X_train, X_test, y_train, y_test, preprocessor = preparar_dados(df)
-    modelo = treinar_modelo(X_train, y_train)
-    mse = avaliar_modelo(modelo, X_test, y_test)
+    # Gera dados simulados para teste
+    df = gerar_dados_simulados()
 
-    # Configuração do menu
+    # Substitua as funções de carga e treinamento de dados reais por funções de exemplo
+    # Para teste, você pode usar um modelo mock ou pré-treinado
+    # Exemplo de substituição: 
+    # X_train, X_test, y_train, y_test, preprocessor = preparar_dados(df)
+    # modelo = treinar_modelo(X_train, y_train)
+    # mse = avaliar_modelo(modelo, X_test, y_test)
+    # Para fins de teste, você pode pular essas partes ou usar um modelo fictício.
+
     st.sidebar.title("Menu")
     opcao = st.sidebar.selectbox("Escolha uma opção", ["Dashboard", "Previsão de Vendas"])
 
     if opcao == "Dashboard":
         exibir_dashboard(df)
     elif opcao == "Previsão de Vendas":
-        previsao_vendas(modelo, preprocessor)
+        # Se você precisar de um modelo e pré-processador para a previsão, substitua abaixo por mocks
+        # modelo = MockModelo() # Substitua pelo seu modelo real
+        # preprocessor = MockPreprocessor() # Substitua pelo seu pré-processador real
+        previsao_vendas(None, None)  # Substitua por `modelo` e `preprocessor` reais quando disponíveis
+
