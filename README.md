@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 # Real-Time-Sales-Visualization-Prediction-Streamlit
 Plataforma para monitorar e prever vendas com integração de dados e visualizações interativas. | Automatiza processos.  Análise detalhada. Escalabilidade | Scripts:  app.py: Dashboard e previsão. data_preparation.py: Prepara dados. model_training.py: Treina o modelo. Databasesqlite.py: Gerencia banco de dados.
 
@@ -59,3 +61,6 @@ O sistema é escalável, permitindo a adição de novas funcionalidades, integra
      - **atualizar_dados_periodicamente(arquivo_csv, intervalo):** Atualiza periodicamente os dados no CSV e no banco de dados.
 
 Cada script é projetado para contribuir de maneira específica ao fluxo geral da aplicação, assegurando que os dados sejam corretamente preparados, armazenados e analisados para fornecer insights valiosos e previsões precisas.
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
