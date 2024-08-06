@@ -24,12 +24,8 @@ def exibir_dashboard(df):
         return
 
     # Verifica se as colunas esperadas estão presentes no DataFrame
-<<<<<<< HEAD
     colunas_esperadas = ['setor', 'produto', 'número_vendas', 'valor_total_venda', 'preço', 'marca', 'localizacao']
     if not all(col in df.columns for col in colunas_esperadas):
-=======
-    if not all(col in df.columns for col in ['setor', 'produto', 'número_vendas', 'valor_total_venda', 'preço', 'marca', 'localizacao']):
->>>>>>> 96f366f (Primeiro commit)
         st.write("Erro: Colunas esperadas estão ausentes no arquivo CSV.")
         st.write("Colunas disponíveis:", df.columns.tolist())
         return
@@ -46,11 +42,8 @@ def exibir_dashboard(df):
             df_produto_mais_vendido = df.groupby("produto").agg({"número_vendas": "sum"}).reset_index()
             df_produto_mais_vendido = df_produto_mais_vendido.sort_values(by="número_vendas", ascending=False).head(1)
             st.write(df_produto_mais_vendido)
-<<<<<<< HEAD
         else:
             st.write("Sem dados para exibir.")
-=======
->>>>>>> 96f366f (Primeiro commit)
 
         # Produto Menos Vendido
         st.markdown("### Produto Menos Vendido")
@@ -58,11 +51,8 @@ def exibir_dashboard(df):
             df_produto_menos_vendido = df.groupby("produto").agg({"número_vendas": "sum"}).reset_index()
             df_produto_menos_vendido = df_produto_menos_vendido.sort_values(by="número_vendas", ascending=True).head(1)
             st.write(df_produto_menos_vendido)
-<<<<<<< HEAD
         else:
             st.write("Sem dados para exibir.")
-=======
->>>>>>> 96f366f (Primeiro commit)
 
         # Faturamento Total
         st.markdown("### Faturamento Total")
@@ -192,11 +182,7 @@ def previsao_vendas(modelo, preprocessor):
     st.subheader('Insira novos dados para previsão')
 
     with st.form(key='input_form'):
-<<<<<<< HEAD
-        setor = st.selectbox('Setor', [''] + df['setor'].unique().tolist())  # Adiciona opção de selecionar vazio
-=======
         setor = st.selectbox('Setor', df['setor'].unique())
->>>>>>> 96f366f (Primeiro commit)
         marca = st.text_input('Marca')
         preço = st.number_input('Preço', min_value=0.0)
         quantidade_estoque = st.number_input('Quantidade em Estoque', min_value=0)
@@ -220,11 +206,7 @@ def previsao_vendas(modelo, preprocessor):
                 'modelo': modelo_texto,
                 'desconto': desconto,
                 'fornecedor': fornecedor,
-<<<<<<< HEAD
-                'localizacao': localizacao
-=======
                 'localizacao': localizacao  # Inclua a coluna 'localizacao'
->>>>>>> 96f366f (Primeiro commit)
             }])
 
             # Codifica e transforma os dados de entrada conforme o pré-processador
