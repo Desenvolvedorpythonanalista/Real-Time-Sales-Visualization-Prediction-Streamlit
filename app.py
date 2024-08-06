@@ -210,6 +210,10 @@ def previsao_vendas(modelo, preprocessor):
         submit_button = st.form_submit_button(label='Prever')
 
         if submit_button:
+            if not marca:
+                st.error("Por favor, insira a marca.")
+                return
+
             # Cria um DataFrame com os dados inseridos pelo usuário
             dados_novos = pd.DataFrame([{
                 'setor': setor,
@@ -236,11 +240,15 @@ if __name__ == "__main__":
 
     # Substitua as funções de carga e treinamento de dados reais por funções de exemplo
     # Para teste, você pode usar um modelo mock ou pré-treinado
-    # Exemplo de substituição: 
-    # X_train, X_test, y_train, y_test, preprocessor = preparar_dados(df)
-    # modelo = treinar_modelo(X_train, y_train)
-    # mse = avaliar_modelo(modelo, X_test, y_test)
-    # Para fins de teste, você pode pular essas partes ou usar um modelo fictício.
+    try:
+        X_train, X_test, y_train, y_test, preprocessor = preparar_dados(df)
+        modelo = treinar_modelo(X_train, y_train)
+        mse = avaliar_modelo(modelo, X_test, y_test)
+        st.sidebar.write(f"Erro quadrático médio do modelo: {mse:.2f}")
+    except Exception as e:
+        st.sidebar.write(f"Erro ao treinar o modelo: {e}")
+        modelo = None
+        preprocessor = None
 
     st.sidebar.title("Menu")
     opcao = st.sidebar.selectbox("Escolha uma opção", ["Dashboard", "Previsão de Vendas"])
@@ -248,8 +256,4 @@ if __name__ == "__main__":
     if opcao == "Dashboard":
         exibir_dashboard(df)
     elif opcao == "Previsão de Vendas":
-        # Se você precisar de um modelo e pré-processador para a previsão, substitua abaixo por mocks
-        # modelo = MockModelo() # Substitua pelo seu modelo real
-        # preprocessor = MockPreprocessor() # Substitua pelo seu pré-processador real
-        previsao_vendas(None, None)  # Substitua por `modelo` e `preprocessor` reais quando disponíveis
-
+        previsao_vendas(modelo, preprocessor)
